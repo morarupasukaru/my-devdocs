@@ -40,10 +40,8 @@ TBD
     * [shadow over the twelve lands](https://btco.itch.io/shadow-over-the-twelve-lands), [article](https://medium.com/@btco_code/why-i-spent-almost-a-year-building-an-rpg-game-for-a-fantasy-console-2bbe2e1d8cb8) >> game
 
 ### wasm4
-* [wasm4](https://wasm4.org/) in WebAssembly
-
-### microw8
-* [microw8](https://exoticorn.github.io/microw8/) in WebAssembly
+* [wasm4](https://wasm4.org/) in [WebAssembly](https://webassembly.org/) that can be written in [AssemblyScript](https://www.assemblyscript.org/introduction.html)
+* [microw8](https://exoticorn.github.io/microw8/) is another fantasy console in WebAssembly but in less final stage
 
 ## projects with fantasy consoles
 
@@ -87,19 +85,6 @@ TBD
 
 ### Lua
 * [learn Lua in 15 minutes](https://tylerneylon.com/a/learn-lua/)
-
-### AssemblyScript
-
-*as expected, it's too low-level*
-
-* [AssemblyScript](https://www.assemblyscript.org/introduction.html)
-  * [The AssemblyScript Book](https://www.assemblyscript.org/introduction.html)
-
-* [WebAssembly](https://webassembly.org/) in
-  * [2D Video Game in AssemblyScript Tutorial](https://blog.ttulka.com/2d-video-game-in-assemblyscript-tutorial/)
-  * [A collection of AssemblyScript examples](https://github.com/AssemblyScript/examples)
-  * [WAT to HTML framework for sizecoders](https://github.com/Kaproncai/wasmer)
-  * [sizecoding with WebAssembly](http://www.sizecoding.org/wiki/JavaScript#WebAssembly)
 
 ### Python
 * [Python](https://www.python.org/)
