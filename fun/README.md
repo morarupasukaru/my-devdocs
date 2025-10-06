@@ -84,6 +84,7 @@ TBD
 ## Languages
 
 ### Lua
+* official doc: [lua](https://lua.org/)
 * [learn Lua in 15 minutes](https://tylerneylon.com/a/learn-lua/)
 * [Programming in Lua](https://www.lua.org/pil/)
 
