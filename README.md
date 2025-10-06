@@ -57,10 +57,8 @@ topics for fun:
   [TIC-80](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#tic-80),
   [picotron](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#picotron),
   [wasm4](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#wasm4),
-  [microw8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#microw8)
   * projects: demoscene, games (dungeoncrawler, roguelike, gambits rpg), app (to learn german)
 * languages: [lua](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#lua),
-  [AssemblyScript](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#assemblyscript),
   [python](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#python)
 * hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/), [Commodore 64 Ultimate](https://www.commodore.net/category/all-products)
 
