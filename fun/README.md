@@ -85,8 +85,10 @@ TBD
 
 ### Lua
 * [learn Lua in 15 minutes](https://tylerneylon.com/a/learn-lua/)
+* [Programming in Lua](https://www.lua.org/pil/)
 
 ### Python
+* [learn python in x minutes](https://learnxinyminutes.com/python/)
 * [Python](https://www.python.org/)
   * [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=ST22MT240325G1) 
   * [Python - The Practical Guide](https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/)
