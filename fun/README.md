@@ -90,6 +90,8 @@ TBD
 
 ### AssemblyScript
 
+*as expected, it's too low-level*
+
 * [AssemblyScript](https://www.assemblyscript.org/introduction.html)
   * [The AssemblyScript Book](https://www.assemblyscript.org/introduction.html)
 
