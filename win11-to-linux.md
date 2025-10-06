@@ -5,7 +5,7 @@ OS: ubuntu desktop
 software
 * awesome duplicate photo finder > dupeGuru
 * clic & tax
-* gcompris
+* gcompris (/)
 * iTunes > clementine, strawberry, deadbeef (required?)
 * luniistore
 * notepad++ > geany
@@ -13,9 +13,9 @@ software
 * tiptoi manager > manual copy
 * tuxpaint
 * univers photo CEWE
-* audacity
+* audacity (/)
 
 hardware
-* printer HL-1210W series
-* scanner "canon lide 220"
+* printer HL-1210W series (/)
+* scanner "canon lide 220" (/)
  
