@@ -25,10 +25,10 @@ see [list of available fantasy consoles/computers](https://paladin-t.github.io/f
     * [SCUMM-8](https://github.com/Liquidream/SCUMM-8) (PICO-8 demake of the SCUMM engine)
     * [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing) >> game / dungeoncrawler
 
-### picotron
+### picotron (later)
 TBD
 
-### TIC-80
+### TIC-80 (later)
 * [TIC-80](https://tic80.com/)
   * official [TIC-80 manual](https://tic80.com/learn) 
     and [wiki](https://github.com/nesbox/TIC-80/wiki) 
@@ -39,7 +39,7 @@ TBD
     * [dungeon heist](https://tic80.com/play?cart=4242) >> game
     * [shadow over the twelve lands](https://btco.itch.io/shadow-over-the-twelve-lands), [article](https://medium.com/@btco_code/why-i-spent-almost-a-year-building-an-rpg-game-for-a-fantasy-console-2bbe2e1d8cb8) >> game
 
-### wasm4
+### wasm4 (later)
 * [wasm4](https://wasm4.org/) in [WebAssembly](https://webassembly.org/) that can be written in [AssemblyScript](https://www.assemblyscript.org/introduction.html)
 * [microw8](https://exoticorn.github.io/microw8/) is another fantasy console in WebAssembly but in less final stage
 
@@ -88,7 +88,7 @@ TBD
 * [learn Lua in 15 minutes](https://tylerneylon.com/a/learn-lua/)
 * [Programming in Lua](https://www.lua.org/pil/)
 
-### Python
+### Python (later)
 * [learn python in x minutes](https://learnxinyminutes.com/python/)
 * [Python](https://www.python.org/)
   * [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=ST22MT240325G1) 
