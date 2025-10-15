@@ -6,20 +6,14 @@ TBD
 
 ## potential projects
 
-_do it with fantasy console, e.g. terminal-first app design_
-* dictionary (search json objects application)
-* [temamemo](https://github.com/morarupasukaru/temamemo) / flashcards
-* *kikitori*: flashcard educational application to practise listening comprehension
-* encyclopedia (like angular doc)
-* digital instrument [angular] (see https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth, https://github.com/deanmalone/PianoPlay/)
-* cleopatra like / admin [springboot + angular + angular material + ...]
-* dungeon crawler like dungeon master in browser
-* rogue game like angband or dungeon crawl stone soup
-  * https://github.com/justindujardin/angular-rpg
-  * https://github.com/tome2/tome2
-  * https://rephial.org/
-  * https://crawl.develz.org/
-  * https://github.com/crawl/crawl
+* digital instrument [angular, vibe-coding] (see [Simple_synth](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth), [PianoPlay](https://github.com/deanmalone/PianoPlay/))
+* kikitori, a flashcard educational application to practise listening comprehension [angular, vibe-coding]
+* encyclopedia (like angular, rxjs, etc. doc) [angular, vibe-coding]
+* dictionary (search json objects application) - [webstack, vibe-coding]
+* unit-tests for learning lua in PICO-8 - [fantasy-console]
+* [temamemo](https://github.com/morarupasukaru/temamemo) / flashcards [webstack]
+* dungeon crawler like dungeon master [fantasy-console]
+* rogue-game like dungeon master [fantasy-console]
 
 _(last update 27.09.2025)_
 
