@@ -66,6 +66,9 @@ TBD
 ### application to learn german
 TBD
 
+### unit-tests for learning lua in PICO-8
+TBD
+
 ### assets
 * [full emoji list](https://www.unicode.org/emoji/charts/full-emoji-list.html)
 * [kenney’s assets](https://kenney.nl/assets)
@@ -96,6 +99,16 @@ TBD
   * [Rasperry Pi projects](https://projects.raspberrypi.org/en) pour apprendre à programmer avec scratch, python, etc.
     * with [pygame](https://www.pygame.org) (for python)
 
+## webstack projects with vibe-coding
+
+* digital instrument [angular, vibe-coding] (see [Simple_synth](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth), [PianoPlay](https://github.com/deanmalone/PianoPlay/))
+* kikitori, a flashcard educational application to practise listening comprehension [angular, vibe-coding]
+* encyclopedia (like angular, rxjs, etc. doc) [angular, vibe-coding]
+* dictionary (search json objects application) - [webstack, vibe-coding]
+* [temamemo](https://github.com/morarupasukaru/temamemo) / flashcards [webstack]
+
 _(last update 03.10.2025)_
+
+
 
 [*Go to parent page*](../README.md)
