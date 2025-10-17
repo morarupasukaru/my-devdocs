@@ -99,6 +99,12 @@ TBD
   * [Rasperry Pi projects](https://projects.raspberrypi.org/en) pour apprendre à programmer avec scratch, python, etc.
     * with [pygame](https://www.pygame.org) (for python)
 
+## MS-DOS
+* https://www.dosbox.com/
+* [MS-DOS Editor](https://archive.org/details/ms-dos-editor)
+* https://qbasic.com/documentation/dosbox.html
+
+
 ## Webstack projects with vibe-coding
 
 * digital instrument [angular, vibe-coding] (see [Simple_synth](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth), [PianoPlay](https://github.com/deanmalone/PianoPlay/))
