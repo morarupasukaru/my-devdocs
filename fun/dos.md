@@ -1,7 +1,7 @@
 # dos
 
-* OS: freedos, dosbox
-* tools: edit, qbasic community, nasm, inertia player
+* OS: [freedos](https://www.freedos.org/), [dosbox](https://www.dosbox.com/)
+* tools: [MS-DOS editor](https://archive.org/details/ms-dos-editor), qbasic community, nasm, [inertia player](https://demozoo.org/productions/186658/)
 * references
   * sizecoding
   * nasm raspberry
