@@ -1,6 +1,6 @@
 # dos
 
-* OS: [freedos](https://www.freedos.org/), [dosbox](https://www.dosbox.com/)
+* OS: [freedos](https://www.freedos.org/), [dosbox](https://www.dosbox.com/) ([dosbox.conf](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dosbox/dosbox.conf))
 * tools: [MS-DOS editor](https://archive.org/details/ms-dos-editor), [Community QBasic](https://qbasic.com/documentation/dosbox.html), [nasm](https://www.nasm.us/), [inertia player](https://demozoo.org/productions/186658/)
 * references
   * [DOS - Sizecoding](http://www.sizecoding.org/wiki/DOS)
