@@ -1,5 +1,7 @@
 # fundev
 
+* retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), c64
+
 ## fantasy consoles
 
 see [list of available fantasy consoles/computers](https://paladin-t.github.io/fantasy/index)
