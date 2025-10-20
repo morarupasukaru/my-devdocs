@@ -7,10 +7,10 @@
   * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
   * [writing 16-bit Code in nasm](https://www.nasm.us/docs/3.01/nasm10.html)
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
-  * e.o.s
   * book: black book
   * book: 3d game
   * book: ...
+* libs: [EOS (Eclipse Operating System)](https://github.com/david4599/BrickBlaster-EOS-Archive)
 
 _(last update 20.10.2025)_
 
