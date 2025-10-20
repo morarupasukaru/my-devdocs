@@ -1,6 +1,6 @@
 # fundev
 
-* retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), c64
+* retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), c64, [aBc INFORMATIQUE](https://abandonware-magazines.org/affiche_mag.php?mag=62&page=1)
 
 ## fantasy consoles
 
@@ -100,12 +100,6 @@ TBD
   * [Python - The Practical Guide](https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/)
   * [Rasperry Pi projects](https://projects.raspberrypi.org/en) pour apprendre à programmer avec scratch, python, etc.
     * with [pygame](https://www.pygame.org) (for python)
-
-## MS-DOS
-* https://www.dosbox.com/
-* [MS-DOS Editor](https://archive.org/details/ms-dos-editor)
-* https://qbasic.com/documentation/dosbox.html
-
 
 ## Webstack projects with vibe-coding
 
