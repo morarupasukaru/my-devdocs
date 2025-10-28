@@ -1,7 +1,5 @@
 # fundev
 
-* retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md)
-
 ## fantasy consoles
 
 see [list of available fantasy consoles/computers](https://paladin-t.github.io/fantasy/index)
@@ -78,13 +76,7 @@ TBD
   [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
 * [04b03](https://www.dafont.com/04b-03.font) as bitmap font
 * [commodore 64 palette](https://lospec.com/palette-list/commodore64)
-  
-### tools
 * [Retro Diffusion](https://astropulse.itch.io/retrodiffusion) to generate pixel art with AI
-* [PETSCII Editor](https://petscii.krissz.hu/)
-* [Petmate - C64 PETSCII editor](https://nurpax.github.io/petmate/)
-* [Character Set · PETSCII · Keyboard](https://www.pagetable.com/c64ref/charset/)  >> ressource
-
 
 ## Languages
 
