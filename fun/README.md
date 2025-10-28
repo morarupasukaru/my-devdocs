@@ -1,6 +1,6 @@
 # fundev
 
-* retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md), [aBc INFORMATIQUE](https://abandonware-magazines.org/affiche_mag.php?mag=62&page=1)
+* retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md)
 
 ## fantasy consoles
 
