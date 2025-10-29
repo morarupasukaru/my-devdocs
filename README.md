@@ -53,7 +53,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 topics for fun:
 * fantasy consoles: [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#pico-8)
 * languages: [lua](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#lua)
-* hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/), [Commodore 64 Ultimate](https://www.commodore.net/category/all-products)
+* hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/)
 * retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md)
 * [gaming](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/gamography.md)
 
