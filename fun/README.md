@@ -46,7 +46,7 @@ TBD
 ## projects with fantasy consoles
 
 ### demoscene
-* [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demscone
+* [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
 * [sizecoding](http://www.sizecoding.org/wiki/Main_Page) a wiki dedicated to create tiny demoscene intros
 * [wab](https://www.wab.com) - demoscene in javascript
 * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
@@ -94,7 +94,6 @@ TBD
     * with [pygame](https://www.pygame.org) (for python)
 
 ## Webstack projects with vibe-coding
-
 * digital instrument [angular, vibe-coding] (see [Simple_synth](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Simple_synth), [PianoPlay](https://github.com/deanmalone/PianoPlay/))
 * kikitori, a flashcard educational application to practise listening comprehension [angular, vibe-coding]
 * encyclopedia (like angular, rxjs, etc. doc) [angular, vibe-coding]
