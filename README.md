@@ -42,7 +42,9 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [guava](https://github.com/google/guava) as another common java utility lib >> lib
 * [lombok](https://projectlombok.org/) to generate getter, setter, toString, builder, etc. for java >> lib
 * [mapstruct](https://mapstruct.org/) to ease mapping of java beans >> lib
-
+* [vite](https://vite.dev/) as build tools >> tool
+* [zod](https://zod.dev/) for TypeScript-first schema validation with static type inference >> lib
+  
 (See also [archived webstack topics](archive/webstack/README.md))
 
 [*Go to top*](#my-devdocs)
