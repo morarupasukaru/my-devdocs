@@ -37,6 +37,8 @@
   * [dungeon master encyclopaedia](http://dmweb.free.fr/)
   * card - [tria-insomnia](https://sprvrn.itch.io/tria-insomnia)
   * card - [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing)
+  * card - [Monster House 2.5D](https://dukkio.itch.io/monster-house-25d)
+  * card - [Black Dawn - The Pico8 Experiment](https://timeslip1974.itch.io/picodawn)
 * demoscene
   * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8)
   * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
