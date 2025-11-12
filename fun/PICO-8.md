@@ -32,6 +32,8 @@
   * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
   * card - [into the darkness](https://www.lexaloffle.com/bbs/?pid=38264)
   * card - [portlike](https://www.lexaloffle.com/bbs/?tid=37045)
+  * card - [Puzzle Dungeon](https://ryancavendell.itch.io/puzzle-dungeon) - puzzles
+  * card - [Puzzles of the Paladin](https://www.lexaloffle.com/bbs/?pid=142353#p) - puzzles
 * dungeon-crawler
   * [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/)
   * [dungeon master encyclopaedia](http://dmweb.free.fr/)
@@ -48,7 +50,11 @@
   * card - [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx) >> demoscene
 * game with gambits
 * application to learn german
-
+* RPG - loop battle
+  * card - [Pico-8 RPG Prototype](https://munro.itch.io/texty-rpg-prototype)
+  * card - [Idle RPG](https://jasonnumberxiii.itch.io/idle-rpg)
+  * card - [Small Adventure](https://darkgriffin.itch.io/small-adventure)
+  
 _(last update 12.11.2025)_
 
 [*Go to parent page*](README.md)
