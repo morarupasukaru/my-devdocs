@@ -75,7 +75,7 @@
 * dungeon-crawler
   * [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/)
   * [dungeon master encyclopaedia](http://dmweb.free.fr/)
-  * card - [tria-insomnia](https://sprvrn.itch.io/tria-insomnia)
+  * card - [Tria Insomnia](https://sprvrn.itch.io/tria-insomnia)
   * card - [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing)
   * card - [Monster House 2.5D](https://dukkio.itch.io/monster-house-25d)
   * card - [Black Dawn - The Pico8 Experiment](https://timeslip1974.itch.io/picodawn)
