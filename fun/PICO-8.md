@@ -8,6 +8,7 @@
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
   * [P8SCII](https://pico-8.fandom.com/wiki/P8SCII)
   * [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
+  * [](https://www.youtube.com/c/LazyDevs)
   * see more [resources](https://www.lexaloffle.com/pico-8.php?page=resources)
 * tools
   * [PICO-8 Education Edition](https://www.pico-8-edu.com/)
@@ -30,8 +31,22 @@
   * [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge)
   * [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
   * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
+  * card - [Porklike](https://krystman.itch.io/porklike) with [youtube tutorial](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
   * card - [into the darkness](https://www.lexaloffle.com/bbs/?pid=38264)
-  * card - [portlike](https://www.lexaloffle.com/bbs/?tid=37045)
+  * card - [Kobold Dungeon (prototype)](https://kaasnake.itch.io/kobold-dungeon)
+  * card - [Heroquest](https://pigmeat.itch.io/heroquestrl)
+  * card - [Dungeon Penetrator](https://glenmcnamee.itch.io/dungeon-penetrator)
+  * card - [The Remains of El Dorado](https://minbytes.itch.io/remains-of-el-dorado)
+  * card - [Tiny Rogue](https://ryancavendell.itch.io/tiny-rogue)
+  * card - [Virtuous Vanquisher of Evil](https://ironchestgames.itch.io/virtuous-vanquisher-of-evil)
+  * card - [Lowrez dungeon](https://egordorichev.itch.io/lowrez-dungeon)
+  * card - [Tower Noire](https://cow.itch.io/tower-noire)
+  * card - [Pico Dungeon](https://stealthix.itch.io/pico-dungeon)
+  * card - [Il Campione dei Caduti](https://giangioff.itch.io/campionecaduti)
+  * card - [Drowned Catacombs](https://bitware-interactive.itch.io/drowned-catacombs)
+  * card - [Blue Taurus](https://krystman.itch.io/blue-taurus)
+  * card - [Kill the Wizard](https://zodomere.itch.io/kill-the-wizard-a-roguelike)
+  * card - [Simple RPGs](https://ryancavendell.itch.io/simple-rpgs)
   * card - [Puzzle Dungeon](https://ryancavendell.itch.io/puzzle-dungeon) - puzzles
   * card - [Puzzles of the Paladin](https://www.lexaloffle.com/bbs/?pid=142353#p) - puzzles
 * dungeon-crawler
