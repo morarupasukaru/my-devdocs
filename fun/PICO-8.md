@@ -61,6 +61,17 @@
   * card - [Foxum](https://jeffpack.itch.io/foxum)
   * card - [Krazy Netherworld Pri](https://hillendymion.itch.io/krazy-netherworld-pri)
   * card - [Seeking The Beast II](https://taxicomics.itch.io/seeking-the-beast-ii)
+  * card - [Itty Bitty Tiny Town](https://chairian.itch.io/ibtt)
+  * card - [Little Eidolons](https://smartalloc.itch.io/little-eidolons)
+  * card - [Assigned Fighter At Birth](https://ohcurtains.itch.io/assigned-fighter-at-birth)
+  * card - [The legend of Isaac](https://egordorichev.itch.io/the-legend-of-isaac)
+  * card - [Midnight 24](https://bonevolt.itch.io/midnight-24)
+  * card - [PicoQuest: Darkness Rising](https://ryancavendell.itch.io/picoquest-darkness-rising)
+  * card - [Crypt](https://achie.itch.io/crypt)
+  * card - [Go West](https://davidstonge.itch.io/go-west)
+  * card - [Squirrel](https://void-gamesplay.itch.io/squirrel)
+  * card - [Soul Breakers](https://kerneliron.itch.io/soul-breakers)
+  * card - [Dungeon Battlefield](https://kaasnake.itch.io/dungeon-battlefield)
 * dungeon-crawler
   * [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/)
   * [dungeon master encyclopaedia](http://dmweb.free.fr/)
@@ -68,6 +79,7 @@
   * card - [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing)
   * card - [Monster House 2.5D](https://dukkio.itch.io/monster-house-25d)
   * card - [Black Dawn - The Pico8 Experiment](https://timeslip1974.itch.io/picodawn)
+  * card - [Seeking The Beast III](https://taxicomics.itch.io/seeking-the-beast-iii) - raycasting
 * demoscene
   * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8)
   * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
