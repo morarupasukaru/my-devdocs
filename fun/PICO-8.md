@@ -26,5 +26,8 @@
    
 ## Lua
 
-* [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
-* 
+* [lua](https://lua.org/)
+ * [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
+ * [Programming in Lua](https://www.lua.org/pil/)
+
+[*Go to parent page*](README.md)
