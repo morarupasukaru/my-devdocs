@@ -49,6 +49,18 @@
   * card - [Simple RPGs](https://ryancavendell.itch.io/simple-rpgs)
   * card - [Puzzle Dungeon](https://ryancavendell.itch.io/puzzle-dungeon) - puzzles
   * card - [Puzzles of the Paladin](https://www.lexaloffle.com/bbs/?pid=142353#p) - puzzles
+* ultima-like 
+  * card - [Shards of Destiny](https://matzieq.itch.io/shards-of-destiny)
+  * card - [Minima](https://feneric.itch.io/minima)
+  * card - [Loto the Avatar](https://shram86.itch.io/loto-the-avatar)
+  * card - [Anteform](https://feneric.itch.io/anteform)
+  * card - [Ultimate Odyssey](https://lonespelunker.itch.io/ultimate-odyssey)
+  * card - [A Messenger's Tale](https://www.lexaloffle.com/bbs/?tid=32793)
+* other RPGs
+  * card - [A Dream's Command](https://jusiv.itch.io/a-dreams-command)
+  * card - [Foxum](https://jeffpack.itch.io/foxum)
+  * card - [Krazy Netherworld Pri](https://hillendymion.itch.io/krazy-netherworld-pri)
+  * card - [Seeking The Beast II](https://taxicomics.itch.io/seeking-the-beast-ii)
 * dungeon-crawler
   * [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/)
   * [dungeon master encyclopaedia](http://dmweb.free.fr/)
