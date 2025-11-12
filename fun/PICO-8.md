@@ -51,4 +51,6 @@
 * game with gambits
 * application to learn german
 
+_(last update 12.11.2025)_
+
 [*Go to parent page*](README.md)
