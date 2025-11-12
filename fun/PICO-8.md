@@ -8,12 +8,12 @@
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
   * [P8SCII](https://pico-8.fandom.com/wiki/P8SCII)
   * [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
-  * [](https://www.youtube.com/c/LazyDevs)
   * see more [resources](https://www.lexaloffle.com/pico-8.php?page=resources)
 * tools
   * [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * courses
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) 
+  * [Youtube tutorials of LazyDevs](https://www.youtube.com/c/LazyDevs)
    
 ## Lua
 
