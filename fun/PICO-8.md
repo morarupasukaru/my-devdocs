@@ -11,14 +11,6 @@
   * see more [resources](https://www.lexaloffle.com/pico-8.php?page=resources)
 * tools
   * [PICO-8 Education Edition](https://www.pico-8-edu.com/)
-* cards
-  * [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx) >> demoscene
-  * [tria-insomnia](https://sprvrn.itch.io/tria-insomnia) >> game / dungeoncrawler
-  * [alone in pico](https://nusan.itch.io/alone-in-pico) >> game
-  * [into the darkness](https://www.lexaloffle.com/bbs/?pid=38264) >> game / roguelike
-  * [portlike](https://www.lexaloffle.com/bbs/?tid=37045) >> game / roguelike
-  * [SCUMM-8](https://github.com/Liquidream/SCUMM-8) (PICO-8 demake of the SCUMM engine)
-  * [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing) >> game / dungeoncrawler
 * courses
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) 
    
@@ -29,8 +21,7 @@
   * [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
   * [Programming in Lua](https://www.lua.org/pil/)
 
-
-## projects
+## Projects
 
 * unit-tests for learning lua in PICO-8
   * [PICO-8 testing framework](https://github.com/jozanza/pico-test) 
@@ -39,15 +30,20 @@
   * [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge)
   * [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
   * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
+  * card - [into the darkness](https://www.lexaloffle.com/bbs/?pid=38264)
+  * card - [portlike](https://www.lexaloffle.com/bbs/?tid=37045)
 * dungeon-crawler
   * [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/)
-  * [dungeon master encyclopaedia](http://dmweb.free.fr/) >> ressource
+  * [dungeon master encyclopaedia](http://dmweb.free.fr/)
+  * card - [tria-insomnia](https://sprvrn.itch.io/tria-insomnia)
+  * card - [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing)
 * demoscene
   * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8)
   * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
   * [sizecoding](http://www.sizecoding.org/wiki/Main_Page) a wiki dedicated to create tiny demoscene intros
   * [wab](https://www.wab.com) - demoscene in javascript
   * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
+  * card - [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx) >> demoscene
 * game with gambits
 * application to learn german
 
