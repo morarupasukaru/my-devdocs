@@ -21,6 +21,7 @@
   * [Lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
   * [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
   * [Programming in Lua](https://www.lua.org/pil/)
+  * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
 
 ## Projects
 
