@@ -90,10 +90,6 @@
   * card - [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx) >> demoscene
 * game with gambits
 * application to learn german
-* RPG - loop battle
-  * card - [Pico-8 RPG Prototype](https://munro.itch.io/texty-rpg-prototype)
-  * card - [Idle RPG](https://jasonnumberxiii.itch.io/idle-rpg)
-  * card - [Small Adventure](https://darkgriffin.itch.io/small-adventure)
   
 _(last update 12.11.2025)_
 
