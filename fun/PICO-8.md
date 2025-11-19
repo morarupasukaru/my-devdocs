@@ -14,6 +14,7 @@
 * courses
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) 
   * [Youtube tutorials of LazyDevs](https://www.youtube.com/c/LazyDevs)
+  * [Making a BETTER Shmup in Pico-8](https://www.lexaloffle.com/bbs/?tid=51847)
    
 ## Lua
 
