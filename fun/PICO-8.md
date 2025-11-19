@@ -33,7 +33,6 @@
   * [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
   * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
   * card - [Porklike](https://krystman.itch.io/porklike) with [youtube tutorial](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
-  * card - [Kobold Dungeon (prototype)](https://kaasnake.itch.io/kobold-dungeon)
   * card - [Heroquest](https://pigmeat.itch.io/heroquestrl)
   * card - [Dungeon Penetrator](https://glenmcnamee.itch.io/dungeon-penetrator)
   * card - [The Remains of El Dorado](https://minbytes.itch.io/remains-of-el-dorado)
