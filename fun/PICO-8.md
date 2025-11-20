@@ -16,6 +16,10 @@
   * [Youtube tutorials of LazyDevs](https://www.youtube.com/c/LazyDevs)
   * [Making a Shmup in Pico-8 - Beginner Tutorial](https://www.lexaloffle.com/bbs/?tid=47630)
   * [Making a BETTER Shmup in Pico-8 - Advanced Tutorial](https://www.lexaloffle.com/bbs/?tid=51847)
+  * [Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk)
+  * [Pico-8 Tutorial - Roguelike](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
+  * [Pico-8 Tutorial - Shmup](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd)
+  * [Pico-8 Tutorial - Advanced Shmup](https://www.youtube.com/watch?v=GSx2YHy9Gp8&list=PLea8cjCua_P1o-xiQRf_QzqS2pMVlGnse)
    
 ## Lua
 
@@ -34,7 +38,8 @@
   * [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge)
   * [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
   * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
-  * card - [Porklike](https://krystman.itch.io/porklike) with [youtube tutorial](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
+  * [Porklike](https://krystman.itch.io/porklike) - roguelike
+  * [Curse of the Lich King](https://www.lexaloffle.com/bbs/?pid=64171#p) - roguelike
   * card - [Dungeon Penetrator](https://glenmcnamee.itch.io/dungeon-penetrator)
   * card - [The Remains of El Dorado](https://minbytes.itch.io/remains-of-el-dorado)
   * card - [Tiny Rogue](https://ryancavendell.itch.io/tiny-rogue)
