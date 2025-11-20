@@ -40,6 +40,7 @@
   * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
   * [Porklike](https://krystman.itch.io/porklike) - roguelike
   * [Curse of the Lich King](https://www.lexaloffle.com/bbs/?pid=64171#p) - roguelike
+  * [A Light in the Dungeon](https://pixelshock.itch.io/a-light-in-the-dungeon) - roguelike
   * card - [Dungeon Penetrator](https://glenmcnamee.itch.io/dungeon-penetrator)
   * card - [The Remains of El Dorado](https://minbytes.itch.io/remains-of-el-dorado)
   * card - [Tiny Rogue](https://ryancavendell.itch.io/tiny-rogue)
