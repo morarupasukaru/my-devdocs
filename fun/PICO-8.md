@@ -3,23 +3,27 @@
 * [PICO-8](https://www.lexaloffle.com/pico-8.php)
 * resources
   * [Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
-  * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
   * [Enhanced PICO-8 cheat sheet](https://www.lexaloffle.com/bbs/?tid=28207)
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
   * [P8SCII](https://pico-8.fandom.com/wiki/P8SCII)
   * [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
   * see more [resources](https://www.lexaloffle.com/pico-8.php?page=resources)
+  * [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726) - code snippets (cards which code fits in a tweet)
+  * [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
+  * [Pico-8 Binary Save System](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/)
 * tools
   * [PICO-8 Education Edition](https://www.pico-8-edu.com/)
-* courses
+* tutorials
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) 
+  * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
+  * [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)
+  * [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8)
+  * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
   * [Youtube tutorials of LazyDevs](https://www.youtube.com/c/LazyDevs)
-  * [Making a Shmup in Pico-8 - Beginner Tutorial](https://www.lexaloffle.com/bbs/?tid=47630)
-  * [Making a BETTER Shmup in Pico-8 - Advanced Tutorial](https://www.lexaloffle.com/bbs/?tid=51847)
-  * [Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk)
-  * [Pico-8 Tutorial - Roguelike](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
-  * [Pico-8 Tutorial - Shmup](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd)
-  * [Pico-8 Tutorial - Advanced Shmup](https://www.youtube.com/watch?v=GSx2YHy9Gp8&list=PLea8cjCua_P1o-xiQRf_QzqS2pMVlGnse)
+    * [Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk)
+    * [Pico-8 Tutorial - Roguelike](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
+    * [Pico-8 Tutorial - Shmup](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd)
+    * [Pico-8 Tutorial - Advanced Shmup](https://www.youtube.com/watch?v=GSx2YHy9Gp8&list=PLea8cjCua_P1o-xiQRf_QzqS2pMVlGnse)
    
 ## Lua
 
