@@ -41,8 +41,8 @@
     * [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
     * [Programming in Lua](https://www.lua.org/pil/)
     * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
-* tools
-  * [PICO-8 Education Edition](https://www.pico-8-edu.com/)
+* tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
+* hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
 
 ## Cards
 
