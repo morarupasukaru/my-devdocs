@@ -36,12 +36,9 @@
   * [Programming in Lua](https://www.lua.org/pil/)
   * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
 
-## Projects
+## Cards
 
-* unit-tests for learning lua in PICO-8
-  * [PICO-8 testing framework](https://github.com/jozanza/pico-test) 
-  * [Simple idea for unit tests](https://www.lexaloffle.com/bbs/?tid=142640)
-* rogue
+* roguelike
   * [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge)
   * [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
   * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
@@ -100,9 +97,15 @@
   * [wab](https://www.wab.com) - demoscene in javascript
   * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
   * card - [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx) >> demoscene
-* game with gambits
+
+## Projects
+
 * application to learn german
-  
+* roguelike
+* dungeon-crawler
+* demoscene
+* game with gambits / AI commands / idle game (to integrate in roguelike, dungeon-crawler)
+
 _(last update 12.11.2025)_
 
 [*Go to parent page*](README.md)
