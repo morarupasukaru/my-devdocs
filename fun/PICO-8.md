@@ -59,7 +59,6 @@
   * [Dungeon Penetrator](https://glenmcnamee.itch.io/dungeon-penetrator)
   * [The Remains of El Dorado](https://minbytes.itch.io/remains-of-el-dorado)
   * [Tiny Rogue](https://ryancavendell.itch.io/tiny-rogue)
-  * [Virtuous Vanquisher of Evil](https://ironchestgames.itch.io/virtuous-vanquisher-of-evil)
   * [Lowrez dungeon](https://egordorichev.itch.io/lowrez-dungeon)
   * [Tower Noire](https://cow.itch.io/tower-noire)
   * [Pico Dungeon](https://stealthix.itch.io/pico-dungeon)
