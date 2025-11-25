@@ -112,9 +112,33 @@ Domain Specific Language (DSLs): a language that is well suited to express a dom
 * A short alternative to the ADD or the ADP (see below) is the [Architecture Inception Canvas](https://canvas.arc42.org/architecture-inception-canvas)
 * or the [Architecture Communication Canvas](https://canvas.arc42.org/architecture-communication-canvas).
 
-### Other architecture templates
+## Interfaces
+
+Interfaces are not only hard to do well, they are also expensive.
+
+In fixed-price projects:
+* Exclude external interfaces from the fixed scope
+Aim for minimum-work/zero-external depencies (e.g. DB interface table)
+Remember:
+* Interfaces are contracts, not only technically, but also organizationally and operationally
+
+Checklist for good-practise about interfaces
+* Understand the business scope
+* Sketch and redesign, make it simple
+* Create and follow guidelines
+* Respect the contract
+* Communicate with the stakeholders
+* Document the usage
+* (Support batching)
+* Follow common security guidelines
+* Support monitoring
+* Clear error handling
+* Mocks and test cases
 
 ## Tools
 * [draw.io](https://www.drawio.com/)
-architecture kata
+* [architecture kata](https://github.com/tedneward/ArchKatas)
+  
+[*Go to parent page*](../README.md)
 
+*Page mainly written in november 2025*
