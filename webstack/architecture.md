@@ -106,7 +106,15 @@ Domain Specific Language (DSLs): a language that is well suited to express a dom
 * Analysing logs
 * Generating helper tools
 
+## ARC 42 template
+
+* ADD - Documenting Architectures with [arc42](https://arc42.org/overview)
+* A short alternative to the ADD or the ADP (see below) is the [Architecture Inception Canvas](https://canvas.arc42.org/architecture-inception-canvas)
+* or the [Architecture Communication Canvas](https://canvas.arc42.org/architecture-communication-canvas).
+
+### Other architecture templates
 
 ## Tools
 * [draw.io](https://www.drawio.com/)
 architecture kata
+
