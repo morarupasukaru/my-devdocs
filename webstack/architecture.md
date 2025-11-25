@@ -40,4 +40,47 @@
 * Related: Care about dependencies (with e.g. SONAR dependency structure matrix)
 
 
-TODO Slide 83
+## Patterns
+
+* Basic ones (selection):  
+  * Gang of Four (GoF) (some are less useful with functional programming)
+  * GRASP patterns, GoF patterns reduced to 9 core patterns (Book: applying UML and patterns)
+* Pattern selection, on higher level
+  * Pattern-Oriented Software Architecture Volume 1, more educational than GoF-book
+  * Domain Driven Design (DDD): effective OO design for our typical systems
+  * Patterns of Enterprise Application Architecture -book
+  * Enterprise Integration Patterns
+  * Modern patters for cloud, big data, microservices<img width="1923" height="758" alt="image" src="https://github.com/user-attachments/assets/ff4e0ce0-1ab8-4bd4-9bb5-6993ce4bb9c4" />
+* [The Importance of Domain Driven Design](https://simpleprogrammer.com/importance-domain-driven-design/)
+* [A Domain-driven Design Example](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
+* [Clean Domain-Driven Design in 10 minutes](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
+
+## Architectural styles
+
+* To reason about an architecture, it is often useful to know different architectural styles
+  * Pipe- & Filter (batch)
+  * Repository style
+  * Hexagonal / onion architecture
+    * https://blog.octo.com/hexagonal-architecture-three-principles-and-an-implementation-example
+  * Event system
+  * Event sourcing (event log)
+  * Microservices
+ * Architectural Styles by Starke --> take image of slide 122
+* [Architecture Anti patterns](https://architecture-antipatterns.tech/)
+  * Architecture by implication – Too late decisions, decisions are taken implicitly
+  * Covering your assets - documenting alternatives without decision
+  * Witches brew – group of architects resulting in mix of ideas, lacking focus or consistency
+  * Gold plating -  work well past the point where the extra effort is worth the value  
+  * Vendor king - architecture built fully around a vendor product (aka vendor trap)
+  * Big bang architecture - designing the entire architecture at the beginning of the project when you know least about the system
+  * Groundhog day - discussions repeated as justification not known
+  * Stovepipe Architecture - isolated system with different technologies without reuse
+  * Golden hammer - one technology for all
+  * Cargo-culting
+  * Domain allergy
+  * Emotional attachment
+  * Horizontalism
+  * Infrastructure ignorance
+  * Misapplied genericity
+
+TODO slide 116
