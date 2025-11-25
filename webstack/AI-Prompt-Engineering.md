@@ -1,5 +1,9 @@
 # AI Hints
 
+## Vibe Coding
+
+[Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
+
 ## Prompt Engineering
 
 *general informations*
