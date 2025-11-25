@@ -19,5 +19,13 @@
 ## Non-functional requirements (NFR)
 
 * [Software Quality Attributes in Software Engineering](https://www.softwaretestinghelp.com/what-are-the-quality-attributes/)
+* Tradeoffs of Quality Attributes
+** Flexibility  (layering, separation) <-> performance
+** User convenience  <-> security (2FA)
+** Scalability (more distribution) <-> single instance performance. Sessions, Kibana, splunk
+** Simplicity of system <-> performance (tuning such as caching, …)
+** Modifiability <-> performance (runtime plugins)
+** Decoupling, Reuseability <-> maintainable (Micro services)
+** Configurability <–> testability
 
 TODO Slide 27
