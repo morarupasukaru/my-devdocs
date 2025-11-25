@@ -50,7 +50,7 @@
   * Domain Driven Design (DDD): effective OO design for our typical systems
   * Patterns of Enterprise Application Architecture -book
   * Enterprise Integration Patterns
-  * Modern patters for cloud, big data, microservices<img width="1923" height="758" alt="image" src="https://github.com/user-attachments/assets/ff4e0ce0-1ab8-4bd4-9bb5-6993ce4bb9c4" />
+  * Modern patters for cloud, big data, microservices
 * [The Importance of Domain Driven Design](https://simpleprogrammer.com/importance-domain-driven-design/)
 * [A Domain-driven Design Example](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
 * [Clean Domain-Driven Design in 10 minutes](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
