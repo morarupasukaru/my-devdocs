@@ -19,3 +19,5 @@
 ## Non-functional requirements (NFR)
 
 * [Software Quality Attributes in Software Engineering](https://www.softwaretestinghelp.com/what-are-the-quality-attributes/)
+
+TODO Slide 27
