@@ -82,5 +82,31 @@
   * Horizontalism
   * Infrastructure ignorance
   * Misapplied genericity
+* Be careful with Hype Driven Development (HDD)
 
-TODO slide 116
+## Views
+
+[Viewpoints](http://www.viewpoints-and-perspectives.info/home/viewpoints/)
+* Context View (black box)
+* Functional view
+* Deployment view
+* ...
+
+## Notation: DSL
+Domain Specific Language (DSLs): a language that is well suited to express a domain or a solution (=implementation) for a domain
+[fluent style APIs](http://www.martinfowler.com/bliki/FluentInterface.html) (e.g. Spring Data)
+
+## Impact of AI to software architecture
+* Prompt for comparing technologies
+* Analyzing existing code
+* Code generation for PoCs or demos
+* Generating diagrams from code
+* Generating tests
+* Learning a new programming language
+* Analysing logs
+* Generating helper tools
+
+
+## Tools
+* [draw.io](https://www.drawio.com/)
+architecture kata
