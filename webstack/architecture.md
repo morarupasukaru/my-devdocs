@@ -47,7 +47,6 @@
   * Modern patters for cloud, big data, microservices
 * [The Importance of Domain Driven Design](https://simpleprogrammer.com/importance-domain-driven-design/)
 * [A Domain-driven Design Example](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
-* [Clean Domain-Driven Design in 10 minutes](https://hackernoon.com/clean-domain-driven-design-in-10-minutes-6037a59c8b7b)
 
 ## Architectural styles
 
