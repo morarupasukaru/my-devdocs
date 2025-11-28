@@ -20,6 +20,7 @@
   * [Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
   * [Enhanced PICO-8 cheat sheet](https://www.lexaloffle.com/bbs/?tid=28207)
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
+  * [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
   * [P8SCII](https://pico-8.fandom.com/wiki/P8SCII)
   * [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726) - code snippets (cards which code fits in a tweet)
   * [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
