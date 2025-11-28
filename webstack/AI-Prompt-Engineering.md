@@ -3,6 +3,8 @@
 ## Vibe Coding
 
 [Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
+* [The BMAD Method: The Ultimate AI Coding System](https://www.youtube.com/watch?v=fD8NLPU0WYU&t=512s)
+* [The Official BMad-Method Masterclass (The Complete IDE Workflow)](https://www.youtube.com/watch?v=LorEJPrALcg&msockid=eb518fbccc2011f0952c8c6abbe33370)
 
 ## Prompt Engineering
 
