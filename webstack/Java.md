@@ -375,7 +375,7 @@ This document try to summarize best of Java to develop REST APIs (or batches).
 * [jmeter](https://jmeter.apache.org/) to test performance of web apps
 * [selenium](https://www.selenium.dev/) to automate testing of web apps
 * [jenkins](https://www.jenkins.io/) for continuous integration
-
+* see migration guidelines for [openrewrite](https://docs.openrewrite.org/recipes/java/migrate/upgradetojava25)
 [*Go to top*](#Java)
 
 
