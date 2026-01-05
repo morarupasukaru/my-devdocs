@@ -57,7 +57,7 @@ topics for [fun](fun/README.md):
 * languages: [lua](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#lua)
 * hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/)
 * retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md),
-  ([Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch2) to buy in 2028?)
+  ([Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch2) or [mega65](https://mega65.org/) to buy in 2028?)
 * [gaming](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/gamography.md)
 
 [*Go to top*](#my-devdocs)
