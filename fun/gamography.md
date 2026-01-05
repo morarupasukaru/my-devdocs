@@ -1,8 +1,6 @@
 # Gamography
 
-* *playlist* on Switch2
-  * [Final Fantasy VII Remake Integrade](https://fr.wikipedia.org/wiki/Final_Fantasy_VII_Remake),
-  * [Hyrule Warriors: Age of Imprisonment](https://en.wikipedia.org/wiki/Hyrule_Warriors:_Age_of_Imprisonment)
+* *whishlist:* FF7 trilogy on Switch2 (to buy in 2028?)
 * :heart: **Favorites games** :heart::
   [Final Fantasy XII](https://en.wikipedia.org/wiki/Final_Fantasy_XII),
   [Zelda - Breath of the Wild](https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_Breath_of_the_Wild)
