@@ -2,8 +2,6 @@
 
 try to have certificate in angular and java?
 
-* In Progress
-  * [Angular] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) [done in 2019, repeated in TODO] -> watch only
 * Next courses
   * [Angular] [The complete guide to angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/) [done in 2019, repeated in TODO] -> code-along
   * [Frontend] [JavaScript - The Complete Guide 2025](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) [2023, repeated in TODO] -> watch only
@@ -37,9 +35,10 @@ try to have certificate in angular and java?
     [Angular Blog](https://blog.angular.dev/),
     [Typescript Blog](https://devblogs.microsoft.com/typescript/)
   * [Java](https://docs.oracle.com/en/java/javase/), [Java Blog](https://blogs.oracle.com/java/)
-* read & update [devdocs](https://github.com/morarupasukaru/devdocs) (all topics)
+* read & update [my-devdocs](https://github.com/morarupasukaru/my-devdocs) (all topics)
  
 ##  past courses
+  * [Angular] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) [done in 2019, watch in 2025]
   * [Angular] [Angular Signals In Depth (Angular 19)](https://www.udemy.com/course/angular-signals/) [done in 2025]
   * [AI] [ChatGPT, Midjourney, DALL-E 3 & APIs - The Complete Guide](https://www.udemy.com/course/chatgpt-bard-bing-complete-guide-to-chatgpt-openai-apis/) [done in 2025]
   * [AI] [AI For Developers With GitHub Copilot, Cursor AI & ChatGPT](https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/) [done in 2025]
@@ -114,6 +113,6 @@ try to have certificate in angular and java?
   * [Frontend] [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/) [never done]
   * [Frontend] [Nuxt.js 2 - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/) [never done]
 
-_(last update 27.09.2025)_
+_(last update 07.01.2026)_
 
 [*Go to parent page*](../README.md)
