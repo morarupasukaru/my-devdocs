@@ -1,1 +1,0 @@
-dosbox -conf dosbox.conf
