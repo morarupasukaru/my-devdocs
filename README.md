@@ -11,39 +11,37 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html) (test-driven development)
 * [Best-practises](https://angular.dev/assets/context/best-practices.md) for [Angular](webstack/Angular.md)
 * [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets/) for [Typescript](webstack/TypeScript.md)
-* [Spring Boot Best Practices](https://mshemeel.github.io/java-learning/spring-boot/spring-boot-best-practices/) for [Spring Boot](webstack/SpringBoot.md) >> framework
+* [Spring Boot Best Practices](https://mshemeel.github.io/java-learning/spring-boot/spring-boot-best-practices/) for [Spring Boot](webstack/SpringBoot.md)
 * [Effective Java](webstack/Java.md#effective-java) book as best-practises for [Java](webstack/Java.md)
 * [Spring Initializr](https://start.spring.io/) to initialize a Spring Boot application
 * [REST](archive/webstack/REST-API-Guidelines.md) API guidelines
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to audit website (accessibility, PWA, performance, etc.)
-* [maven](https://maven.apache.org/) for java build
 * [http-server](https://github.com/http-party/http-server) as static HTTP server
 * [OpenRewrite](https://docs.openrewrite.org/) to ease refactoring in [Java](https://docs.openrewrite.org/recipes/java), upgrade [SpringBoot](https://docs.openrewrite.org/recipes/java/spring/boot3), etc.
-* [Error Prone](https://errorprone.info/index) to catch common Java mistakes as compile-time errors >> tool
-* [commit message guidelines by angular](https://github.com/angular/angular/blob/main/contributing-docs/commit-message-guidelines.md) >> guide-lines
-* [commitlint](https://commitlint.js.org/) to lint commit messages (as githook) >> tool
-* [husky](https://typicode.github.io/husky/) to add githook >> tool
-* [prettier](https://prettier.io/) for code formatter (as githook) >> tool
-* [stylelint](https://stylelint.io/) as CSS linter >> tool
-* [tailwind css](https://tailwindcss.com/) as utility CSS framework >> CSS
-* [ESLint](https://eslint.org/) and [typescript-eslint](https://typescript-eslint.io/) for JS/TS linter >> tool
-* [Geany ](https://www.geany.org/) as lightweight programmer's text editor >> tool
-* [maven](https://maven.apache.org/) to build java application >> tool
-* [npm](https://nodejs.org/en/download/package-manager) as package manager for JS >> tool
-* [checkstyle](https://checkstyle.sourceforge.io/) for java code formatter >> tool
-* [dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
-  or [renovatebot](https://docs.renovatebot.com/) as dependency updates >> tool
-* [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for docs >> documentation
-* [prompt engineering best-practises](webstack/AI-Prompt-Engineering.md) >> ai
-* [Playwright](https://playwright.dev/) for write e2e tests >> tool
-* [mockito](https://site.mockito.org/) for java mock in [junit5](https://junit.org/junit5/) tests >> lib
-* [ngx-translate](http://www.ngx-translate.com/) for i18n angular >> lib
-* [commons-lang](https://commons.apache.org/proper/commons-lang/) as common java utility lib >> lib
-* [guava](https://github.com/google/guava) as another common java utility lib >> lib
-* [lombok](https://projectlombok.org/) to generate getter, setter, toString, builder, etc. for java >> lib
-* [mapstruct](https://mapstruct.org/) to ease mapping of java beans >> lib
-* [vite](https://vite.dev/) as build tools >> tool
-* [zod](https://zod.dev/) for TypeScript-first schema validation with static type inference >> lib
+* [Error Prone](https://errorprone.info/index) to catch common Java mistakes as compile-time errors
+* [Commit message guidelines by angular](https://github.com/angular/angular/blob/main/contributing-docs/commit-message-guidelines.md)
+* [commitlint](https://commitlint.js.org/) to lint commit messages (as githook)
+* [Husky](https://typicode.github.io/husky/) to add githook
+* [Prettier](https://prettier.io/) for code formatter (as githook)
+* [Stylelint](https://stylelint.io/) as CSS linter
+* [Tailwind css](https://tailwindcss.com/) as utility CSS framework
+* [ESLint](https://eslint.org/) and [typescript-eslint](https://typescript-eslint.io/) for JS/TS linter
+* [Geany ](https://www.geany.org/) as lightweight programmer's text editor
+* [Maven](https://maven.apache.org/) to build java application
+* [NPM](https://nodejs.org/en/download/package-manager) as package manager for JS
+* [Checkstyle](https://checkstyle.sourceforge.io/) for java code formatter
+* [Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
+  or [Renovatebot](https://docs.renovatebot.com/) as dependency updates
+* [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for docs
+* [Prompt engineering best-practises](webstack/AI-Prompt-Engineering.md)
+* [Playwright](https://playwright.dev/) for write frontend tests
+* [Mockito](https://site.mockito.org/) for java mock in [junit5](https://junit.org/junit5/) tests
+* [Ngx-translate](http://www.ngx-translate.com/) for i18n angular
+* [Commons-lang](https://commons.apache.org/proper/commons-lang/) and [Guava](https://github.com/google/guava) as common java utility libs 
+* [Lombok](https://projectlombok.org/) to generate getter, setter, toString, builder, etc. for java
+* [Mapstruct](https://mapstruct.org/) to ease mapping of java beans
+* [Vite](https://vite.dev/) as build tools
+* [Zod](https://zod.dev/) for TypeScript-first schema validation with static type inference
   
 (See also [archived webstack topics](archive/webstack/README.md))
 
@@ -108,4 +106,4 @@ Links and articles about digital education for young people
 
 [*Go to top*](#my-devdocs)
 
-*(last update september 2025; links checked on 26.09.2025)*
+*(last update January 2026; links checked on 07.01.2026)*
