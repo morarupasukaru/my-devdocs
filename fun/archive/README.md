@@ -50,4 +50,4 @@ TBD
 
 _(last update 23.12.2025)_
 
-[*Go to parent page*](../README.md)
+[*Go to parent page*](../../README.md)
