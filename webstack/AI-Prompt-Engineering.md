@@ -156,4 +156,4 @@ see [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts#promp
 
 [*Go to top*](#AI-Hints)
 
-*(last update september 2025*
+*(last update september 2025)*
