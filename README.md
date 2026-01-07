@@ -1,5 +1,5 @@
 # my-devdocs
-[[webstack](#webstack)], [[fundev](#fundev)], [[digital-education](#digital-education)], [[gamography](fun/gamography.md)], [[courses](webstack/courses.md)], [[hobby projects](fun/hobby-dev-projects.md)], [[my history as developer](my-history-as-developer.md)]
+[[webstack](#webstack)], [[fun](#fun)], [[digital-education](#digital-education)], [[gamography](fun/gamography.md)], [[courses](webstack/courses.md)], [[my history as developer](my-history-as-developer.md)]
 
 ## webstack
 
@@ -48,15 +48,10 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 [*Go to top*](#my-devdocs)
 
 
-## fundev
+## fun
 
-topics for [fun](fun/README.md):
-* fantasy consoles: [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#pico-8)
-* languages: [lua](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#lua)
-* hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/)
-* retro: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md), [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md),
-  ([Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch2) or [mega65](https://mega65.org/) to buy in 2028?)
-* [gaming](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/gamography.md)
+* [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#pico-8) as fantasy console
+* hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/), ([Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch2) or [mega65](https://mega65.org/) to buy once?)
 
 [*Go to top*](#my-devdocs)
 
