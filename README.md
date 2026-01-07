@@ -36,7 +36,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [Prompt engineering best-practises](webstack/AI-Prompt-Engineering.md)
 * [Playwright](https://playwright.dev/) for write frontend tests
 * [Mockito](https://site.mockito.org/) for java mock in [junit5](https://junit.org/junit5/) tests
-* [Ngx-translate](http://www.ngx-translate.com/) for i18n angular
+* [Ngx-translate](https://ngx-translate.org/) for i18n angular
 * [Commons-lang](https://commons.apache.org/proper/commons-lang/) and [Guava](https://github.com/google/guava) as common java utility libs 
 * [Lombok](https://projectlombok.org/) to generate getter, setter, toString, builder, etc. for java
 * [Mapstruct](https://mapstruct.org/) to ease mapping of java beans
