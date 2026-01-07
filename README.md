@@ -20,12 +20,12 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [OpenRewrite](https://docs.openrewrite.org/) to ease refactoring in [Java](https://docs.openrewrite.org/recipes/java), upgrade [SpringBoot](https://docs.openrewrite.org/recipes/java/spring/boot3), etc.
 * [Error Prone](https://errorprone.info/index) to catch common Java mistakes as compile-time errors
 * [Commit message guidelines by angular](https://github.com/angular/angular/blob/main/contributing-docs/commit-message-guidelines.md)
-* [commitlint](https://commitlint.js.org/) to lint commit messages (as githook)
+* [Commitlint](https://commitlint.js.org/) to lint commit messages (as githook)
 * [Husky](https://typicode.github.io/husky/) to add githook
 * [Prettier](https://prettier.io/) for code formatter (as githook)
 * [Stylelint](https://stylelint.io/) as CSS linter
 * [Tailwind css](https://tailwindcss.com/) as utility CSS framework
-* [ESLint](https://eslint.org/) and [typescript-eslint](https://typescript-eslint.io/) for JS/TS linter
+* [ESLint](https://eslint.org/) and [Typescript-eslint](https://typescript-eslint.io/) for JS/TS linter
 * [Geany ](https://www.geany.org/) as lightweight programmer's text editor
 * [Maven](https://maven.apache.org/) to build java application
 * [NPM](https://nodejs.org/en/download/package-manager) as package manager for JS
