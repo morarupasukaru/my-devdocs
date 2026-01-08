@@ -7,7 +7,7 @@
   * [Java Blog](https://blogs.oracle.com/java/)
   * [Angular Blog](https://blog.angular.dev/)
   * [Typescript Blog](https://devblogs.microsoft.com/typescript/)
-  * TBD other topics?
+  * TBD other topics (CSS, JS, AI, ...) ?
 * mock exams (frequency: once a year):
   * Spring Boot:
    [Tests Module 1](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-01),
@@ -19,19 +19,17 @@
    [7](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-07),
    [8](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-08) and
    [Spring Professional Certification - 6 full Tests (2V0-72.22)](https://www.udemy.com/course/spring-professional-certification-6-full-tests-2v0-7222-a/)
-  * Java: TODO for [Java SE 21 Developer Professional (1Z0-830)](https://mylearn.oracle.com/ou/exam/java-se-21-developer-professional-1z0-830/40805/139080/220555)
   * Java: TBD
     * [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
     * [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
     * [Oracle Java SE 21 Developer Professional: 1Z0-830](https://www.udemy.com/course/oracle-certification-java-21-learnit/)
     * [OCP Java 21, 17: Certification 1Z0-830, 1Z0-829 --BRAND NEW!](https://www.udemy.com/course/ocp-oracle-certified-professional-java-developer-prep/)
+    * Java: TODO for [Java SE 21 Developer Professional (1Z0-830)](https://mylearn.oracle.com/ou/exam/java-se-21-developer-professional-1z0-830/40805/139080/220555)
     * other mocks exam? (enthuware? ...)
-  * TBD other topics? 
-* update [my-devdocs](https://github.com/morarupasukaru/my-devdocs) (frequency: once a year)
-* read official docs & blogs (frequency: once a year):
-  * [Angular](https://angular.dev/),
-  * [Java](https://docs.oracle.com/en/java/javase/)
- 
+  * TBD other mocks on other topics? 
+* update [my-devdocs](https://github.com/morarupasukaru/my-devdocs) by reading official docs and updating links/summary (frequency: once a year)
+  * TODO: Java 
+
 ##  past courses
   * [Architecture](https://github.com/morarupasukaru/my-devdocs/blob/main/webstack/architecture.md) [done in 2025]
   * [Angular] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) [done in 2019, watch in 2025]
