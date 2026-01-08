@@ -8,7 +8,7 @@
   * ([Langenscheidt Grundwortschatz Deutsch als Fremdsprache](https://www.langenscheidt.com/shop/Deutsch/Schule-Studium/Wortschatz/Langenscheidt-Grundwortschatz-Deutsch-als-Fremdsprache-978-3-12-563184-7) - additional word to "Langenscheidt vocabulaire allemand de base")
   * (https://www.langenscheidt.com/shop/Deutsch/Schule-Studium/Woerterbuch/Langenscheidt-Power-Woerterbuch-Deutsch-als-Fremdsprache-978-3-12-514467-5 > mot importants marqué en évidence)
   * (Deutsch-Intensiv: https://www.allango.net/library?searchString=intensiv%20wortschatz)
-  MVP - 5. (goFluent)
+  * (goFluent)
 * generate JSON tree documents (source > topics > word, use tags also) of each sources
 * consolidate JSON flashcard oriented file with various sources
 * generate mp3 of phrases (for question)
