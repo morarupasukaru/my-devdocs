@@ -2,6 +2,10 @@
 
 ## dev-fitness - in progress
 
+* read blogs - frequency: every month:
+  * [Spring blog](https://spring.io/blog)
+  * ...
+
 * mock exams java
   * [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
   * [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
