@@ -2,38 +2,35 @@
 
 ## dev-fitness - in progress
 
-* read blogs - frequency: every month:
+* read blogs (frequency: every month):
   * [Spring blog](https://spring.io/blog)
-  * ...
-
-* mock exams java
-  * [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
-  * [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
-  * [Oracle Java SE 21 Developer Professional: 1Z0-830](https://www.udemy.com/course/oracle-certification-java-21-learnit/)
-  * [OCP Java 21, 17: Certification 1Z0-830, 1Z0-829 --BRAND NEW!](https://www.udemy.com/course/ocp-oracle-certified-professional-java-developer-prep/)
-  * other mocks exam? (enthuware? ...)
-* mock exams Spring Boot:
-  [Tests Module 1](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-01),
-  [2](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-02),
-  [3](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-03),
-  [4](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-04),
-  [5](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-05),
-  [6](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-06),
-  [7](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-07),
-  [8](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-08) and
-  [Spring Professional Certification - 6 full Tests (2V0-72.22)](https://www.udemy.com/course/spring-professional-certification-6-full-tests-2v0-7222-a/)
-* Java: TODO for [Java SE 21 Developer Professional (1Z0-830)](https://mylearn.oracle.com/ou/exam/java-se-21-developer-professional-1z0-830/40805/139080/220555)
-* read official docs & blogs
-  * [Spring Framework](https://spring.io/projects/spring-framework),
-    [Spring Boot](https://spring.io/projects/spring-boot),
-    [Spring Blog](https://spring.io/blog/category/releases),
-    [Spring Framework wiki](https://github.com/spring-projects/spring-framework/wiki/Spring-Framework-Versions),
-    [Spring Boot wiki](https://github.com/spring-projects/spring-boot/wiki#release-notes)
+  * [Java Blog](https://blogs.oracle.com/java/)
+  * [Angular Blog](https://blog.angular.dev/)
+  * [Typescript Blog](https://devblogs.microsoft.com/typescript/)
+  * TBD other topics?
+* mock exams (frequency: once a year):
+  * Spring Boot:
+   [Tests Module 1](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-01),
+   [2](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-02),
+   [3](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-03),
+   [4](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-04),
+   [5](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-05),
+   [6](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-06),
+   [7](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-07),
+   [8](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-08) and
+   [Spring Professional Certification - 6 full Tests (2V0-72.22)](https://www.udemy.com/course/spring-professional-certification-6-full-tests-2v0-7222-a/)
+  * Java: TODO for [Java SE 21 Developer Professional (1Z0-830)](https://mylearn.oracle.com/ou/exam/java-se-21-developer-professional-1z0-830/40805/139080/220555)
+  * Java: TBD
+    * [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
+    * [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
+    * [Oracle Java SE 21 Developer Professional: 1Z0-830](https://www.udemy.com/course/oracle-certification-java-21-learnit/)
+    * [OCP Java 21, 17: Certification 1Z0-830, 1Z0-829 --BRAND NEW!](https://www.udemy.com/course/ocp-oracle-certified-professional-java-developer-prep/)
+    * other mocks exam? (enthuware? ...)
+  * TBD other topics? 
+* update [my-devdocs](https://github.com/morarupasukaru/my-devdocs) (frequency: once a year)
+* read official docs & blogs (frequency: once a year):
   * [Angular](https://angular.dev/),
-    [Angular Blog](https://blog.angular.dev/),
-    [Typescript Blog](https://devblogs.microsoft.com/typescript/)
-  * [Java](https://docs.oracle.com/en/java/javase/), [Java Blog](https://blogs.oracle.com/java/)
-* read & update [my-devdocs](https://github.com/morarupasukaru/my-devdocs) (all topics)
+  * [Java](https://docs.oracle.com/en/java/javase/)
  
 ##  past courses
   * [Architecture](https://github.com/morarupasukaru/my-devdocs/blob/main/webstack/architecture.md) [done in 2025]
