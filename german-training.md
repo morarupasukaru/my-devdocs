@@ -6,6 +6,7 @@
   * [Goethe](https://www.goethe.de/de/spr/prf/ueb.html)
   * [Telc](https://www.telc.net/lehrmaterialien/downloadbereich/)
   * (Deutsch-Intensiv)
+  * (goFluent)
 * generate JSON tree documents of each sources
 * consolidate JSON flashcard oriented file with various sources
 * generate mp3 of phrases (for question)
