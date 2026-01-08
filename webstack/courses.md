@@ -1,30 +1,24 @@
 # Courses
 
-try to have certificate in angular and java?
+## dev-fitness - in progress
 
-* Next courses
-  * [Angular] [The complete guide to angular](https://www.udemy.com/course/the-complete-guide-to-angular-2/) [done in 2019, repeated in TODO] -> code-along
-  * [Frontend] [JavaScript - The Complete Guide 2025](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/) [2023, repeated in TODO] -> watch only
-  * [Java]
-    * [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
-    * [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
-    * [Oracle Java SE 21 Developer Professional: 1Z0-830](https://www.udemy.com/course/oracle-certification-java-21-learnit/)
-    * [OCP Java 21, 17: Certification 1Z0-830, 1Z0-829 --BRAND NEW!](https://www.udemy.com/course/ocp-oracle-certified-professional-java-developer-prep/)
-    * other mocks exam? (enthuware? ...)
-  * find course certification about greenit
-## refresher > TODO in 03.2026
-* mock exams as refresher
-  * Spring Boot:
-    [Tests Module 1](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-01),
-    [2](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-02),
-    [3](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-03),
-    [4](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-04),
-    [5](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-05),
-    [6](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-06),
-    [7](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-07),
-    [8](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-08) and
-    [Spring Professional Certification - 6 full Tests (2V0-72.22)](https://www.udemy.com/course/spring-professional-certification-6-full-tests-2v0-7222-a/)
-  * Java: TODO for [Java SE 21 Developer Professional (1Z0-830)](https://mylearn.oracle.com/ou/exam/java-se-21-developer-professional-1z0-830/40805/139080/220555)
+* mock exams java
+  * [Java SE 11 Developer 1Z0-819 OCP Course - Part 1](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-1/)
+  * [Java SE 11 Developer 1Z0-819 OCP Course - Part 2](https://www.udemy.com/course/java-se-11-developer-1z0-819-ocp-course-part-2/)
+  * [Oracle Java SE 21 Developer Professional: 1Z0-830](https://www.udemy.com/course/oracle-certification-java-21-learnit/)
+  * [OCP Java 21, 17: Certification 1Z0-830, 1Z0-829 --BRAND NEW!](https://www.udemy.com/course/ocp-oracle-certified-professional-java-developer-prep/)
+  * other mocks exam? (enthuware? ...)
+* mock exams Spring Boot:
+  [Tests Module 1](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-01),
+  [2](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-02),
+  [3](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-03),
+  [4](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-04),
+  [5](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-05),
+  [6](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-06),
+  [7](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-07),
+  [8](https://www.udemy.com/course/spring-professional-certification-practice-tests-module-08) and
+  [Spring Professional Certification - 6 full Tests (2V0-72.22)](https://www.udemy.com/course/spring-professional-certification-6-full-tests-2v0-7222-a/)
+* Java: TODO for [Java SE 21 Developer Professional (1Z0-830)](https://mylearn.oracle.com/ou/exam/java-se-21-developer-professional-1z0-830/40805/139080/220555)
 * read official docs & blogs
   * [Spring Framework](https://spring.io/projects/spring-framework),
     [Spring Boot](https://spring.io/projects/spring-boot),
