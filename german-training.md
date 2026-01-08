@@ -2,12 +2,12 @@
 
 ## wordlists
 * sources:
-  MVP - 1. [Goethe](https://www.goethe.de/de/spr/prf/ueb.html)
-  MVP - 2. [Telc](https://www.telc.net/lehrmaterialien/downloadbereich/)
-  3. Langenscheidt vocabulaire allemand de base
-  4. (Deutsch-Intensiv: https://www.allango.net/library?searchString=intensiv%20wortschatz)
+  * [Goethe](https://www.goethe.de/de/spr/prf/ueb.html)
+  * [Telc](https://www.telc.net/lehrmaterialien/downloadbereich/)
+  * Langenscheidt vocabulaire allemand de base
+  * (Deutsch-Intensiv: https://www.allango.net/library?searchString=intensiv%20wortschatz)
   MVP - 5. (goFluent)
-* generate JSON tree documents of each sources
+* generate JSON tree documents (source > topics > word, use tags also) of each sources
 * consolidate JSON flashcard oriented file with various sources
 * generate mp3 of phrases (for question)
 * generate static html of JSON (for answer)
