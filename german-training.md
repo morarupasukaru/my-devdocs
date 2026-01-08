@@ -5,6 +5,7 @@
   * [Goethe](https://www.goethe.de/de/spr/prf/ueb.html)
   * [Telc](https://www.telc.net/lehrmaterialien/downloadbereich/)
   * Langenscheidt vocabulaire allemand de base
+  * ([Langenscheidt Grundwortschatz Deutsch als Fremdsprache](https://www.langenscheidt.com/shop/Deutsch/Schule-Studium/Wortschatz/Langenscheidt-Grundwortschatz-Deutsch-als-Fremdsprache-978-3-12-563184-7) - additional word to "Langenscheidt vocabulaire allemand de base")
   * (Deutsch-Intensiv: https://www.allango.net/library?searchString=intensiv%20wortschatz)
   MVP - 5. (goFluent)
 * generate JSON tree documents (source > topics > word, use tags also) of each sources
