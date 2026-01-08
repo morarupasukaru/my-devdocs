@@ -1,17 +1,21 @@
 # german-training
 
-## courses
-* https://www.telc.net/lehrmaterialien
-* https://learngerman.dw.com/en/learn-german/s-9528
-* goFLuent
-
 ## wordlists
-* https://www.goethe.de/de/spr/prf/ueb.html
+* sources:
+  * Langenscheidt vocabulaire allemand de base
+  * [Goethe](https://www.goethe.de/de/spr/prf/ueb.html)
+  * [Telc](https://www.telc.net/lehrmaterialien/downloadbereich/)
+  * (Deutsch-Intensiv)
+* generate JSON tree documents of each sources
+* consolidate JSON flashcard oriented file with various sources
+* generate mp3 of phrases (for question)
+* generate static html of JSON (for answer)
+* develop kikitori
+* use kikitori
 
-## test exams
-* https://www.goethe.de/de/spr/prf/ueb.html
-* https://www.osd.at/pruefungen/uebersicht/b1/
-* https://www.telc.net/sprachpruefungen/zertifikatspruefung/
+## misc
+* [Swiss German Text-to-Speech](https://stt4sg.fhnw.ch/tts/)
+* [piper1-gpl - Fast and local neural text-to-speech engine](https://github.com/OHF-Voice/piper1-gpl)
 
 ## actions to improve german & swiss-german
 * A: german teacher AI agent -> agent show me errors in my german texts
