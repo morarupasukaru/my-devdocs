@@ -5,7 +5,7 @@
   * Langenscheidt vocabulaire allemand de base
   * [Goethe](https://www.goethe.de/de/spr/prf/ueb.html)
   * [Telc](https://www.telc.net/lehrmaterialien/downloadbereich/)
-  * (Deutsch-Intensiv: https://www.allango.net/)
+  * (Deutsch-Intensiv: https://www.allango.net/library?searchString=intensiv%20wortschatz)
   * (goFluent)
 * generate JSON tree documents of each sources
 * consolidate JSON flashcard oriented file with various sources
