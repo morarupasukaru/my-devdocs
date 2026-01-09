@@ -13,8 +13,8 @@
 * consolidate JSON flashcard oriented file with various sources
 * generate mp3 of phrases (for question)
 * generate static html of JSON (for answer)
-* develop kikitori
-* use kikitori
+* develop kikitori or integrate into Anki application
+* use kikitori / Anki
 
 ## misc
 * [Swiss German Text-to-Speech](https://stt4sg.fhnw.ch/tts/)
