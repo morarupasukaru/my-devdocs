@@ -1,10 +1,16 @@
 # AI Hints
 
-## Vibe Coding
+## SDD
 
-[Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
-* [The BMAD Method: The Ultimate AI Coding System](https://www.youtube.com/watch?v=fD8NLPU0WYU&t=512s)
-* [The Official BMad-Method Masterclass (The Complete IDE Workflow)](https://www.youtube.com/watch?v=LorEJPrALcg&msockid=eb518fbccc2011f0952c8c6abbe33370)
+* tools
+  * [OpenSpec](https://github.com/Fission-AI/OpenSpec)
+  * [Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
+    * [The BMAD Method: The Ultimate AI Coding System](https://www.youtube.com/watch?v=fD8NLPU0WYU&t=512s)
+    * [The Official BMad-Method Masterclass (The Complete IDE Workflow)](https://www.youtube.com/watch?v=LorEJPrALcg&msockid=eb518fbccc2011f0952c8c6abbe33370)
+  * [spec-kit](https://github.com/github/spec-kit) 
+* articles
+  * [Spec-Driven Development: OpenSpec vs Spec-Kit vs BMAD - Which One's Actually Worth Your Time?](https://www.nosam.com/spec-driven-development-openspec-vs-spec-kit-vs-bmad-which-ones-actually-worth-your-time/)
+  * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 
 ## Prompt Engineering
 
