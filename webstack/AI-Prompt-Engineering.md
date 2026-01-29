@@ -1,6 +1,6 @@
 # AI Hints
 
-## SDD
+## SDD - Spec-Driven Development
 
 * tools
   * [OpenSpec](https://github.com/Fission-AI/OpenSpec)
