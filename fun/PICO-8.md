@@ -27,6 +27,9 @@
   * [PICO-8 Game Dev for Beginners](https://www.youtube.com/playlist?list=PLB_hJy2NGP0JsFFpEJpe2Wb-k7QShZkGX)
   * [Pico-8 Music Tutorials](https://www.youtube.com/playlist?list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)
   * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
+  * ide: [Utiliser un éditeur externe](https://fairedesjeux.fr/pico-8/techniques-avancees/editeur-externe/),
+    [PICO-8 Easier development with Visual Studio](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio),
+    [Setting up VS Code for PICO-8](https://itch.io/blog/877930/setting-up-vs-code-for-pico-8)
 * showcases:
   [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/),
   [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8),
