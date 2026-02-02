@@ -1,23 +1,26 @@
 # PICO-8
 
 * [PICO-8](https://www.lexaloffle.com/pico-8.php)
-* tutorials
-  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua)
+* references
+  * [Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) **TODO**
+* beginner courses
+  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) **TODO**
   * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
-  * [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)
+  * [Nerdy Teachers PICO-8](https://nerdyteachers.com/PICO-8/)
+* other courses & resources
   * [PICO-8 Educational Toolset](https://mboffin.itch.io/pico8-educational-toolset)
   * [Demo-Man Tutorials](https://demoman.net/)
-  * [Nerdy Teachers PICO-8](https://nerdyteachers.com/PICO-8/)
   * [PICO-8 Zine](https://sectordub.itch.io/pico-8-fanzine-1)
-  * [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8)
   * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
   * [Youtube tutorials of LazyDevs](https://www.youtube.com/c/LazyDevs)
     * [Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk)
     * [Pico-8 Tutorial - Roguelike](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
     * [Pico-8 Tutorial - Shmup](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd)
     * [Pico-8 Tutorial - Advanced Shmup](https://www.youtube.com/watch?v=GSx2YHy9Gp8&list=PLea8cjCua_P1o-xiQRf_QzqS2pMVlGnse)
-* resources
-  * [Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
+* showcases
+  * [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)
+  * [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8)
+* resources - **a trier**
   * [Enhanced PICO-8 cheat sheet](https://www.lexaloffle.com/bbs/?tid=28207)
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
   * [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
