@@ -46,9 +46,9 @@
    [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
    [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
 * a demoscene; resources:
-  * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8),
-  * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene,
-  * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
+  [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8),
+  [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene,
+  [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
 * game with gambits / AI commands / idle game (to integrate in roguelike, dungeon-crawler)
 
 ## Cards
