@@ -1,24 +1,6 @@
 # PICO-8
 
 * [PICO-8](https://www.lexaloffle.com/pico-8.php); see [manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) >>> **TODO: read**
-* beginner courses
-  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) **TODO**
-  * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
-  * [Nerdy Teachers PICO-8](https://nerdyteachers.com/PICO-8/)
-* other courses & resources
-  * [PICO-8 Educational Toolset](https://mboffin.itch.io/pico8-educational-toolset)
-  * [Demo-Man Tutorials](https://demoman.net/)
-  * [PICO-8 Zine](https://sectordub.itch.io/pico-8-fanzine-1)
-  * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
-  * [Youtube tutorials of LazyDevs](https://www.youtube.com/c/LazyDevs)
-    * [Pico-8 Tutorial - Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk)
-    * [Pico-8 Tutorial - Roguelike](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS)
-    * [Pico-8 Tutorial - Shmup](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd)
-    * [Pico-8 Tutorial - Advanced Shmup](https://www.youtube.com/watch?v=GSx2YHy9Gp8&list=PLea8cjCua_P1o-xiQRf_QzqS2pMVlGnse)
-* showcases
-  * [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)
-  * [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8)
-  * [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726) - code snippets (cards which code fits in a tweet)
 * resources - **a trier**
   * [Enhanced PICO-8 cheat sheet](https://www.lexaloffle.com/bbs/?tid=28207)
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
@@ -26,7 +8,29 @@
   * [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
   * [Pico-8 Binary Save System](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/)
   * [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
-  * see more [resources](https://www.lexaloffle.com/pico-8.php?page=resources) and [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
+  * [awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
+* beginner courses
+  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) **TODO**
+  * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
+  * [Nerdy Teachers PICO-8](https://nerdyteachers.com/PICO-8/)
+* other courses
+  * [PICO-8 Educational Toolset](https://mboffin.itch.io/pico8-educational-toolset)
+  * [Demo-Man Tutorials](https://demoman.net/)
+  * [PICO-8 Zine](https://sectordub.itch.io/pico-8-fanzine-1)
+  * [Youtube tutorials of LazyDevs](https://www.youtube.com/c/LazyDevs):
+    [Breakout](https://www.youtube.com/playlist?list=PLea8cjCua_P0qjjiG8G5FBgqwpqMU7rBk),
+    [Roguelike](https://www.youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS),
+    [Shmup](https://www.youtube.com/playlist?list=PLea8cjCua_P3Sfq4XJqNVbd1vsWnh7LZd),
+    [Advanced Shmup](https://www.youtube.com/watch?v=GSx2YHy9Gp8&list=PLea8cjCua_P1o-xiQRf_QzqS2pMVlGnse)
+  * [Youtube of NerdyTeachers](https://www.youtube.com/@NerdyTeachers): [Pico 8 - Platformer Setup](https://www.youtube.com/playlist?list=PLyhkEEoUjSQtUiSOu-N4BIrHBFtLNjkyE), etc.
+  * [PICO-8: Top-Down Adventure Game Tutorial](https://mboffin.itch.io/pico-8-top-down-adventure-game-tutorial)
+  * [PICO-8 Game Dev for Beginners](https://www.youtube.com/playlist?list=PLB_hJy2NGP0JsFFpEJpe2Wb-k7QShZkGX)
+  * [Pico-8 Music Tutorials](https://www.youtube.com/playlist?list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)
+  * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
+* showcases
+  * [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)
+  * [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8)
+  * [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726) - code snippets (cards which code fits in a tweet)
 * tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
     
@@ -52,7 +56,6 @@
 * game with gambits / AI commands / idle game (to integrate in roguelike, dungeon-crawler)
 
 ## Cards
-
 * Dungeon-crawlers:
   [Tria Insomnia](https://sprvrn.itch.io/tria-insomnia),
   [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing),
