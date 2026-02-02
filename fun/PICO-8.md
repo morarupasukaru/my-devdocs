@@ -27,32 +27,28 @@
   * [Pico-8 Binary Save System](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/)
   * [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
   * see more [resources](https://www.lexaloffle.com/pico-8.php?page=resources) and [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
-  * roguelikes
-    * [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge)
-    * [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
-    * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
-  * dungeon-crawlers
-    * [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/)
-    * [dungeon master encyclopaedia](http://dmweb.free.fr/)
-    * [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU)
-    * assets: [First Person Dungeon Crawl Art Pack](https://opengameart.org/content/first-person-dungeon-crawl-art-pack),
-     [First Person Dungeon Crawl - More Tilesets(https://opengameart.org/content/first-person-dungeon-crawl-more-tilesets),
-     [First Person Dungeon Crawl Industrial Pack](https://opengameart.org/content/first-person-dungeon-crawl-industrial-pack),
-     [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
-     [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
-* demoscene  
-  * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8)
-  * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
-  * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
 * tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
     
 ## Projects
-
 * application to learn german
 * roguelike
-* dungeon-crawler
+  * [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge)
+  * [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
+  * [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
+* dungeon-crawlers
+  * [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/)
+  * [dungeon master encyclopaedia](http://dmweb.free.fr/)
+  * [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU)
+  * assets: [First Person Dungeon Crawl Art Pack](https://opengameart.org/content/first-person-dungeon-crawl-art-pack),
+   [First Person Dungeon Crawl - More Tilesets](https://opengameart.org/content/first-person-dungeon-crawl-more-tilesets),
+   [First Person Dungeon Crawl Industrial Pack](https://opengameart.org/content/first-person-dungeon-crawl-industrial-pack),
+   [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
+   [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
 * demoscene
+  * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8)
+  * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
+  * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
 * game with gambits / AI commands / idle game (to integrate in roguelike, dungeon-crawler)
 
 ## Cards
