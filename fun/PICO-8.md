@@ -1,7 +1,7 @@
 # PICO-8
 
 * [PICO-8](https://www.lexaloffle.com/pico-8.php); see [manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) >>> **TODO: read**
-* resources - **a trier**
+* resources
   * [Enhanced PICO-8 cheat sheet](https://www.lexaloffle.com/bbs/?tid=28207)
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
   * [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
@@ -10,7 +10,7 @@
   * [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
   * [awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
 * beginner courses
-  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) **TODO**
+  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) >>> **TODO**
   * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
   * [Nerdy Teachers PICO-8](https://nerdyteachers.com/PICO-8/)
 * other courses
@@ -27,10 +27,10 @@
   * [PICO-8 Game Dev for Beginners](https://www.youtube.com/playlist?list=PLB_hJy2NGP0JsFFpEJpe2Wb-k7QShZkGX)
   * [Pico-8 Music Tutorials](https://www.youtube.com/playlist?list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)
   * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
-* showcases
-  * [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)
-  * [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8)
-  * [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726) - code snippets (cards which code fits in a tweet)
+* showcases:
+  [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/),
+  [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8),
+  [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726)
 * tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
     
