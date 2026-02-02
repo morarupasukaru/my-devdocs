@@ -1,6 +1,6 @@
 # PICO-8
 
-* [PICO-8](https://www.lexaloffle.com/pico-8.php), see [offical manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) >>> **TODO: read**
+* [PICO-8](https://www.lexaloffle.com/pico-8.php); see [manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) >>> **TODO: read**
 * beginner courses
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) **TODO**
   * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
@@ -18,11 +18,11 @@
 * showcases
   * [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)
   * [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8)
+  * [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726) - code snippets (cards which code fits in a tweet)
 * resources - **a trier**
   * [Enhanced PICO-8 cheat sheet](https://www.lexaloffle.com/bbs/?tid=28207)
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
   * [Pico-8 API Cheatsheet](https://iiviigames.github.io/pico8-api/)
-  * [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726) - code snippets (cards which code fits in a tweet)
   * [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
   * [Pico-8 Binary Save System](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/)
   * see more [resources](https://www.lexaloffle.com/pico-8.php?page=resources) and [Awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
@@ -39,15 +39,15 @@
      [First Person Dungeon Crawl Industrial Pack](https://opengameart.org/content/first-person-dungeon-crawl-industrial-pack),
      [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
      [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
-  * demoscene  
-    * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8)
-    * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
-    * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
-  * [lua](https://lua.org/)
-    * [Lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
-    * [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
-    * [Programming in Lua](https://www.lua.org/pil/)
-    * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
+* demoscene  
+  * [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8)
+  * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
+  * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
+* [lua](https://lua.org/)
+  * [Lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
+  * [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
+  * [Programming in Lua](https://www.lua.org/pil/)
+  * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
 * tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
 
