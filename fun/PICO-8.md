@@ -44,10 +44,7 @@
   * [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene
   * [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
 * [lua](https://lua.org/)
-  * [Lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
-  * [Learn Lua in 15 Minutes](https://tylerneylon.com/a/learn-lua/)
-  * [Programming in Lua](https://www.lua.org/pil/)
-  * [Awesome Lua](https://github.com/LewisJEllis/awesome-lua)
+  * [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
 * tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
 
