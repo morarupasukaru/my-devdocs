@@ -1,8 +1,6 @@
 # PICO-8
 
-* [PICO-8](https://www.lexaloffle.com/pico-8.php)
-* references
-  * [Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) **TODO**
+* [PICO-8](https://www.lexaloffle.com/pico-8.php), see [offical manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) >>> **TODO: read**
 * beginner courses
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) **TODO**
   * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
