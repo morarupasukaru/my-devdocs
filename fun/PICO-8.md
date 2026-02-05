@@ -42,18 +42,21 @@
 * application to learn german
 * a roguelike; resources:
   [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge),
-  [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
-  [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental)
+  
 * a dungeon-crawler; resources:
   [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/),
   [dungeon master encyclopaedia](http://dmweb.free.fr/),
   [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU),
-  assets: [First Person Dungeon Crawl Art Pack](https://opengameart.org/content/first-person-dungeon-crawl-art-pack),
-   [First Person Dungeon Crawl - More Tilesets](https://opengameart.org/content/first-person-dungeon-crawl-more-tilesets),
-   [First Person Dungeon Crawl Industrial Pack](https://opengameart.org/content/first-person-dungeon-crawl-industrial-pack),
-   [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
-   [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
-  * inspiration: [lands-of-lorez](https://www.dungeoncrawlers.org/game/lands-of-lorez/)  
+  * assets:
+    [Eye of the Beholder](https://www.spriters-resource.com/ms_dos/eyeofthebeholder/),
+    [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
+    [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental),
+    [First Person Dungeon Crawl Art Pack](https://opengameart.org/content/first-person-dungeon-crawl-art-pack),
+    [First Person Dungeon Crawl - More Tilesets](https://opengameart.org/content/first-person-dungeon-crawl-more-tilesets),
+    [First Person Dungeon Crawl Industrial Pack](https://opengameart.org/content/first-person-dungeon-crawl-industrial-pack),
+    [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
+    [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
+  * inspiration: [lands-of-lorez](https://www.dungeoncrawlers.org/game/lands-of-lorez/)
 * a demoscene; resources:
   [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8),
   [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene,
