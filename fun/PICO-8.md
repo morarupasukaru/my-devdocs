@@ -46,7 +46,14 @@
 * a dungeon-crawler; resources:
   [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/),
   [dungeon master encyclopaedia](http://dmweb.free.fr/),
-  [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU),
+  * explanations:
+    [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU),
+    [DungeonRenderer in JavaScript](https://dungeoncrawlers.org/tools/dungeonrenderer/),
+    [View Rending](https://captive.atari.org/Technical/ViewRendering/ViewRendering.php) (and other sections),
+    [Dungeon Crawl Dev Stream (YouTube)](https://www.youtube.com/playlist?list=PLJJFAeoDlbtBKbtFk1LTOyp1MWTgEb-9E)
+  * tools:
+    [Dungeon Crawler Atlas Generator](https://dungeoncrawlers.org/tools/atlas_generator/),
+    [Mipui](https://www.mipui.net/)
   * assets:
     [Eye of the Beholder](https://www.spriters-resource.com/ms_dos/eyeofthebeholder/),
     [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
