@@ -68,7 +68,9 @@
     [First Person Dungeon Crawl Industrial Pack](https://opengameart.org/content/first-person-dungeon-crawl-industrial-pack),
     [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
     [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
-  * inspiration: [lands-of-lorez](https://www.dungeoncrawlers.org/game/lands-of-lorez/)
+  * inspiration:
+    [lands-of-lorez](https://www.dungeoncrawlers.org/game/lands-of-lorez/)
+    [uncharted wanders](https://dashingstrike.itch.io/uncharted-wanders)
 * a demoscene; resources:
   [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8),
   [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene,
