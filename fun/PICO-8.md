@@ -53,7 +53,8 @@
     [Dungeon Crawl Dev Stream (YouTube)](https://www.youtube.com/playlist?list=PLJJFAeoDlbtBKbtFk1LTOyp1MWTgEb-9E)
   * tools:
     [Dungeon Crawler Atlas Generator](https://dungeoncrawlers.org/tools/atlas_generator/),
-    [Mipui](https://www.mipui.net/)
+    [Mipui](https://www.mipui.net/),
+    [aseprite](https://github.com/aseprite/aseprite) as sprite editor?
   * assets:
     [Eye of the Beholder](https://www.spriters-resource.com/ms_dos/eyeofthebeholder/),
     [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
