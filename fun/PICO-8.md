@@ -70,7 +70,8 @@
     [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
   * inspiration:
     * [lands-of-lorez](https://www.dungeoncrawlers.org/game/lands-of-lorez/) (see [github](https://github.com/photonstorm/lands-of-lorez)
-    * [uncharted wanders](https://dashingstrike.itch.io/uncharted-wanders)
+    * [uncharted wanders](https://dashingstrike.itch.io/uncharted-wanders),
+    * [Black Dawn - The Pico8 Experiment](https://timeslip1974.itch.io/picodawn)
 * a demoscene; resources:
   [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8),
   [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene,
