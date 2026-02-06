@@ -41,6 +41,8 @@
   * [pixelorama](https://pixelorama.org/),
   * [libresprite](https://libresprite.github.io/#!/)
   * [aseprite](https://github.com/aseprite/aseprite) to buy?
+* misc 
+  * [palettes](https://nerdyteachers.com/PICO-8/Guide/PALETTES): [PICO-8 Palette](https://lospec.com/palette-list/pico-8), [PICO-8 Secret Palette Palette](https://lospec.com/palette-list/pico-8-secret-palette)
 ## Projects
 * application to learn german
 * a roguelike; resources:
