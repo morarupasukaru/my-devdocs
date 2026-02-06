@@ -39,6 +39,7 @@
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
 * sprite editors
   * [pixelorama](https://pixelorama.org/),
+  * [libresprite](https://libresprite.github.io/#!/)
   * [aseprite](https://github.com/aseprite/aseprite) to buy?
 ## Projects
 * application to learn german
