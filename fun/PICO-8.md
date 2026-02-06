@@ -37,7 +37,9 @@
   [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726)
 * tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
-    
+* sprite editors
+  * [pixelorama](https://pixelorama.org/),
+  * [aseprite](https://github.com/aseprite/aseprite) to buy?
 ## Projects
 * application to learn german
 * a roguelike; resources:
@@ -53,8 +55,7 @@
     [Dungeon Crawl Dev Stream (YouTube)](https://www.youtube.com/playlist?list=PLJJFAeoDlbtBKbtFk1LTOyp1MWTgEb-9E)
   * tools:
     [Dungeon Crawler Atlas Generator](https://dungeoncrawlers.org/tools/atlas_generator/),
-    [Mipui](https://www.mipui.net/),
-    [aseprite](https://github.com/aseprite/aseprite) as sprite editor?
+    [Mipui](https://www.mipui.net/)
   * assets:
     [Eye of the Beholder](https://www.spriters-resource.com/ms_dos/eyeofthebeholder/),
     [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
