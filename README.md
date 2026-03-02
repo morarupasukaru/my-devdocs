@@ -51,7 +51,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 ## fun
 
 * [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/README.md#pico-8) as fantasy console
-* hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/), ([Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch2) or [mega65](https://mega65.org/) to buy in 2028?)
+* hardware: [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/), ([Commodore 64 Ultimate](https://www.commodore.net/product-page/commodore-64-ultimate-basic-beige-batch2) (or [mega65](https://mega65.org/))
 
 [*Go to top*](#my-devdocs)
 
