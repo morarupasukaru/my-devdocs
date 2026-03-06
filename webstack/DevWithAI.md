@@ -3,13 +3,15 @@
 ## SDD - Spec-Driven Development
 
 * tools
-  * [OpenSpec](https://github.com/Fission-AI/OpenSpec)
-    * [OpenSpec vs Spec Kit: Choosing the Right AI-Driven Development Workflow for Your Team](https://hashrocket.com/blog/posts/openspec-vs-spec-kit-choosing-the-right-ai-driven-development-workflow-for-your-team)
+  * [OpenSpec](https://github.com/Fission-AI/OpenSpec?tab=readme-ov-file#see-it-in-action)
+    * youtube: [OpenSpec Changes Everything — No More Vibe Coding! (Full Step-by-Step)](https://www.youtube.com/watch?v=xwpmPP4mNBQ)
+    * [OpenSpec is Insane: Spec Driven Development is 100X Better Than Vibe Coding](https://www.youtube.com/watch?v=wZFOW89Lsc0)
   * [Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
     * [The BMAD Method: The Ultimate AI Coding System](https://www.youtube.com/watch?v=fD8NLPU0WYU&t=512s)
     * [The Official BMad-Method Masterclass (The Complete IDE Workflow)](https://www.youtube.com/watch?v=LorEJPrALcg&msockid=eb518fbccc2011f0952c8c6abbe33370)
   * [spec-kit](https://github.com/github/spec-kit) 
 * articles
+  * [OpenSpec vs Spec Kit: Choosing the Right AI-Driven Development Workflow for Your Team](https://hashrocket.com/blog/posts/openspec-vs-spec-kit-choosing-the-right-ai-driven-development-workflow-for-your-team)  
   * [Spec-Driven Development: OpenSpec vs Spec-Kit vs BMAD - Which One's Actually Worth Your Time?](https://www.nosam.com/spec-driven-development-openspec-vs-spec-kit-vs-bmad-which-ones-actually-worth-your-time/)
   * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 
