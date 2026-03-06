@@ -1,10 +1,10 @@
-# AI Hints
+# Development with AI
 
 ## SDD - Spec-Driven Development
 
 * tools
   * [OpenSpec](https://github.com/Fission-AI/OpenSpec)
-    * https://hashrocket.com/blog/posts/openspec-vs-spec-kit-choosing-the-right-ai-driven-development-workflow-for-your-team
+    * [OpenSpec vs Spec Kit: Choosing the Right AI-Driven Development Workflow for Your Team](https://hashrocket.com/blog/posts/openspec-vs-spec-kit-choosing-the-right-ai-driven-development-workflow-for-your-team)
   * [Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
     * [The BMAD Method: The Ultimate AI Coding System](https://www.youtube.com/watch?v=fD8NLPU0WYU&t=512s)
     * [The Official BMad-Method Masterclass (The Complete IDE Workflow)](https://www.youtube.com/watch?v=LorEJPrALcg&msockid=eb518fbccc2011f0952c8c6abbe33370)

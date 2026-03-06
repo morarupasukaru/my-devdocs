@@ -33,7 +33,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [Dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
   or [Renovatebot](https://docs.renovatebot.com/) as dependency updates
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for docs
-* [Prompt engineering best-practises](webstack/AI-Prompt-Engineering.md)
+* [Development with AI](webstack/DevWithAI.md)
 * [Playwright](https://playwright.dev/) for write frontend tests
 * [Mockito](https://site.mockito.org/) for java mock in [junit5](https://junit.org/junit5/) tests
 * [Ngx-translate](https://ngx-translate.org/) for i18n angular
