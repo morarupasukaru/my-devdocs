@@ -4,8 +4,7 @@
 
 * tools
   * [OpenSpec](https://github.com/Fission-AI/OpenSpec?tab=readme-ov-file#see-it-in-action)
-    * youtube: [OpenSpec Changes Everything — No More Vibe Coding! (Full Step-by-Step)](https://www.youtube.com/watch?v=xwpmPP4mNBQ)
-    * [OpenSpec is Insane: Spec Driven Development is 100X Better Than Vibe Coding](https://www.youtube.com/watch?v=wZFOW89Lsc0)
+    * youtube: [OpenSpec is Insane: Spec Driven Development is 100X Better Than Vibe Coding](https://www.youtube.com/watch?v=wZFOW89Lsc0)
   * [Breakthrough Method for Agile Ai Driven Development](https://github.com/bmad-code-org/BMAD-METHOD)
     * [The BMAD Method: The Ultimate AI Coding System](https://www.youtube.com/watch?v=fD8NLPU0WYU&t=512s)
     * [The Official BMad-Method Masterclass (The Complete IDE Workflow)](https://www.youtube.com/watch?v=LorEJPrALcg&msockid=eb518fbccc2011f0952c8c6abbe33370)
