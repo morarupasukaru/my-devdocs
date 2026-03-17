@@ -69,6 +69,7 @@ Links and articles about digital education for young people
   * [YouTubeKids](https://www.youtubekids.com/?hl=fr) for videos, ages: 6+
   * [tuxpaint](https://tuxpaint.org/) as drawing program, ages: 6+
   * [scratchJr](https://www.scratchjr.org/) for programming for young children, ages: 5-7, **requires an Apple or Android tablet**
+    * online [scratchJr](https://codejr.org/scratchjr/index.html) 
   * [blockly games](https://blockly.games/?lang=fr) for [Blockly](https://developers.google.com/blockly?hl=fr) from Google, ages: 8-16
   * [scratch](https://scratch.mit.edu/) for programming for young children, ages: 8-16
   * [microsoft MakeCode](https://www.microsoft.com/fr-fr/makecode/) for learning to program, ages: 10+, **requires hardware to be fun, e.g., micro:bit**
