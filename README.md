@@ -77,7 +77,8 @@ Links and articles about digital education for young people
   * [robosphere](https://www.robosphere.net/): A fun learning space in La Chaux-de-Fonds focused on robotics, ages: 8+
   * [atto](https://github.com/devicefuture/atto) (to learn BASIC, easier than Python)
   * [rasperry pi projects](https://projects.raspberrypi.org/en) for learning to program with Scratch, Python, etc.
-* resources for young people 
+* resources for young people
+  * [digitalkidz](https://www.digitalkidz.ch/): resources about development for kids
   * [Y'a pas école ?](https://www.rts.ch/decouverte/y-a-pas-ecole/) : broadcasts to review school curricula outside the classroom
   * [éduclasse](https://www.educlasse.ch/): online education exercises
   * [multimaths.net](https://mathematiques.wp.ac-dijon.fr/motiver-valoriser/applications-academiques/) for learning mathematics
