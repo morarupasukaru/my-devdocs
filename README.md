@@ -71,7 +71,6 @@ Links and articles about digital education for young people
   * [scratchJr](https://www.scratchjr.org/) for programming for young children, ages: 5-7, **requires an Apple or Android tablet**
   * [blockly games](https://blockly.games/?lang=fr) for [Blockly](https://developers.google.com/blockly?hl=fr) from Google, ages: 8-16
   * [scratch](https://scratch.mit.edu/) for programming for young children, ages: 8-16
-  * [algoblocs](https://www.algoblocs.fr/) for learning to program, ages: 8-12
   * [microsoft MakeCode](https://www.microsoft.com/fr-fr/makecode/) for learning to program, ages: 10+, **requires hardware to be fun, e.g., micro:bit**
   * [BBC micro:bit](https://microbit.org/fr/get-started/what-is-the-microbit/) microcomputer for hands-on coding, ages: 8+
   * [modulo](https://modulo-info.ch/) for teaching computer science & programming in high school, ages: 15+
