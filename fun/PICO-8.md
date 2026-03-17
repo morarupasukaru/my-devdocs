@@ -1,6 +1,6 @@
 # PICO-8
 
-* [PICO-8](https://www.lexaloffle.com/pico-8.php); see [manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html) >>> **TODO: read**
+* [PICO-8](https://www.lexaloffle.com/pico-8.php); see [manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
 * resources
   * [Enhanced PICO-8 cheat sheet](https://www.lexaloffle.com/bbs/?tid=28207)
   * [PICO-8 Cheat Sheet (Modern 4K edition) v1.6](https://www.lexaloffle.com/bbs/?tid=54246)
@@ -10,7 +10,7 @@
   * [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
   * [awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
 * beginner courses
-  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua) >>> **TODO**
+  * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua)
   * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
   * [Nerdy Teachers PICO-8](https://nerdyteachers.com/PICO-8/)
 * other courses
