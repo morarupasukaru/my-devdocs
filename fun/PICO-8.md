@@ -48,7 +48,6 @@
 * application to learn german
 * a roguelike; resources:
   [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge),
-  
 * a dungeon-crawler; resources:
   [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/),
   [dungeon master encyclopaedia](http://dmweb.free.fr/),
