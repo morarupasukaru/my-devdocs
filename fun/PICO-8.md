@@ -52,7 +52,7 @@
   [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/),
   [dungeon master encyclopaedia](http://dmweb.free.fr/),
   * explanations:
-    * [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU), [github](https://github.com/The8BitTheory/dungeonrender)
+    * [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU) of [Dungeons and Labyrinths](https://www.youtube.com/playlist?list=PLetZmJRkDZfWHAXL8JxHkswJ8E-LgkZud), [github](https://github.com/The8BitTheory/dungeonrender)
     * [DungeonRenderer in JavaScript](https://dungeoncrawlers.org/tools/dungeonrenderer/),
     * [View Rending](https://captive.atari.org/Technical/ViewRendering/ViewRendering.php) (and other sections),
     * [Dungeon Crawl Dev Stream (YouTube)](https://www.youtube.com/playlist?list=PLJJFAeoDlbtBKbtFk1LTOyp1MWTgEb-9E)
