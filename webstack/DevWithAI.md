@@ -13,6 +13,12 @@
   * [Spec-Driven Development: OpenSpec vs Spec-Kit vs BMAD - Which One's Actually Worth Your Time?](https://www.nosam.com/spec-driven-development-openspec-vs-spec-kit-vs-bmad-which-ones-actually-worth-your-time/)
   * [Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl](https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html)
 
+## GitHub Copilot
+
+* best-practise: inform in readme if AI/GitHub Copilot could be used 
+* [Excluding content from GitHub Copilot](https://docs.github.com/en/copilot/how-tos/configure-content-exclusion/exclude-content-from-copilot)
+* [AI model comparison](https://docs.github.com/en/copilot/reference/ai-models/model-comparison)
+
 ## Prompt Engineering
 
 *general informations*
