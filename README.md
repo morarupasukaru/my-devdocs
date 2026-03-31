@@ -94,11 +94,17 @@ Links and articles about digital education for young people
   * Smartphone: [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0) 
   * movies: [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
   * [cours sur l'utilisation des réseaux sociaux, IA, etc.](https://fr.khanacademy.org/college-careers-more)
-* video game    
+* video game
   * no video games/consoles unless the child asks for them
   * play on a TV console with parents in the early years (like a board game).
   * no portable consoles at first (because they are difficult to handle and lack parental control).
-  * game ideas: Mario Odyssey, Mario Kart, etc.
+  * first games on switch (with joycons & gamepad for the family)
+    * New Super Mario Bros. U Deluxe
+    * Kirby and the Forgotten Land
+    * Mario Kart 8 Deluxe
+    * Super Mario 3D World (later)
+    * Luigi's Mansion 3 (later)
+    * Super Mario Odyssey (later)
 
 [*Go to top*](#my-devdocs)
 
