@@ -10,6 +10,7 @@
   * [spec-kit](https://github.com/github/spec-kit)
   * [claude code tasks](https://www.youtube.com/watch?v=NAWKFRaR0Sk) (youtube video)
   * [ai loop technique - ralph wiggum technique](https://www.youtube.com/watch?v=_IK18goX4X8)
+  * [getting started with GitHub Copilot](https://github.com/features/copilot/tutorials)
 * articles
   * [OpenSpec vs Spec Kit: Choosing the Right AI-Driven Development Workflow for Your Team](https://hashrocket.com/blog/posts/openspec-vs-spec-kit-choosing-the-right-ai-driven-development-workflow-for-your-team)  
   * [Spec-Driven Development: OpenSpec vs Spec-Kit vs BMAD - Which One's Actually Worth Your Time?](https://www.nosam.com/spec-driven-development-openspec-vs-spec-kit-vs-bmad-which-ones-actually-worth-your-time/)
