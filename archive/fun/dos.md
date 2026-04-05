@@ -8,6 +8,8 @@
   * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
   * [writing 16-bit Code in nasm](https://www.nasm.us/docs/3.01/nasm10.html)
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
+  * [FreeDos - development resources](https://www.freedos.org/about/devel/)
+  * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube video
 * books:
   * [Michael Abrash's graphics programming black book](https://archive.org/details/michaelabrashsgr00abra/mode/2up), [CD](https://archive.org/details/blackbook_201910),
   * Le Meilleur : Programmation jeux 3D, [CD](https://www.abandonware-france.org/bibliotheque/livres/le-meilleur-programmation-jeux-3d-27/), 
