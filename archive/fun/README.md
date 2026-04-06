@@ -12,11 +12,8 @@ see [list of available fantasy consoles/computers](https://paladin-t.github.io/f
 ## projects with fantasy consoles
 
 ### assets
-* [full emoji list](https://www.unicode.org/emoji/charts/full-emoji-list.html)
-* [kenney’s assets](https://kenney.nl/assets)
 * [04b03](https://www.dafont.com/04b-03.font) as bitmap font
 * [commodore 64 palette](https://lospec.com/palette-list/commodore64)
-* [Retro Diffusion](https://astropulse.itch.io/retrodiffusion) to generate pixel art with AI
 
 ## Languages
 
