@@ -1,5 +1,7 @@
 # ARCHIVE - fundev
 
+* [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/dos.md)
+  
 ## fantasy consoles
 
 see [list of available fantasy consoles/computers](https://paladin-t.github.io/fantasy/index)
