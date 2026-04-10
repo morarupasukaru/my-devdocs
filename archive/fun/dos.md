@@ -18,7 +18,8 @@
   * [Black Art of 3D Game Programming](https://archive.org/details/BlackArt3DEBook/mode/2up), [CD](https://archive.org/details/BlackArtOf3DGameProgramming)
   * [Programmer en Assembleur sur PC](http://www.win3x.org/win3board/viewtopic.php?t=25757)
   * 8088 assembleur, ibm-PC et compatibles, traduit de Henri Lilen, 2709109948, édition Radio
-
+* articles on FreeDos
+  * 
 _(last update 20.10.2025)_
 
 [*Go to parent page*](../../README.md)
