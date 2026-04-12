@@ -20,6 +20,7 @@
   * 8088 assembleur, ibm-PC et compatibles, traduit de Henri Lilen, 2709109948, édition Radio
 * articles on FreeDos
   * https://allthingsopen.org/articles/tiny-programming-freedos-minimal-environment
+  * https://wiki.osdev.org/Assembly
 _(last update 20.10.2025)_
 
 [*Go to parent page*](../../README.md)
