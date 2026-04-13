@@ -3,7 +3,7 @@
 * OS: [freedos](https://www.freedos.org/), [dosbox](https://www.dosbox.com/) ([dosbox.conf](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dosbox/dosbox.conf))
 * tools: [MS-DOS editor](https://archive.org/details/ms-dos-editor), [Community QBasic](https://qbasic.com/documentation/dosbox.html), [nasm](https://www.nasm.us/), [inertia player](https://demozoo.org/productions/186658/)
 * libs: [EOS (Eclipse Operating System)](https://github.com/david4599/BrickBlaster-EOS-Archive)
-* fantasy console: https://jenissimo.itch.io/nibble8
+* fantasy console: [nibble8](https://jenissimo.itch.io/nibble8)
 * references
   * [DOS - Sizecoding](http://www.sizecoding.org/wiki/DOS)
   * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
@@ -11,6 +11,9 @@
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
   * [FreeDos - development resources](https://www.freedos.org/about/devel/)
   * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube video
+  * [Awesome DOS](https://github.com/balintkissdev/awesome-dos)
+  * [assembly](https://allthingsopen.org/articles/tiny-programming-freedos-minimal-environment) on [OSDev.org](https://wiki.osdev.org/Expanded_Main_Page)
+  * [Tiny programming with FreeDOS](https://allthingsopen.org/articles/tiny-programming-freedos-minimal-environment)
 * books:
   * [Michael Abrash's graphics programming black book](https://archive.org/details/michaelabrashsgr00abra/mode/2up), [CD](https://archive.org/details/blackbook_201910),
   * Le Meilleur : Programmation jeux 3D, [CD](https://www.abandonware-france.org/bibliotheque/livres/le-meilleur-programmation-jeux-3d-27/), 
@@ -19,9 +22,7 @@
   * [Black Art of 3D Game Programming](https://archive.org/details/BlackArt3DEBook/mode/2up), [CD](https://archive.org/details/BlackArtOf3DGameProgramming)
   * [Programmer en Assembleur sur PC](http://www.win3x.org/win3board/viewtopic.php?t=25757)
   * 8088 assembleur, ibm-PC et compatibles, traduit de Henri Lilen, 2709109948, édition Radio
-* articles on FreeDos
-  * https://allthingsopen.org/articles/tiny-programming-freedos-minimal-environment
-  * https://wiki.osdev.org/Assembly
-_(last update 20.10.2025)_
+
+_(last update 13.04.2026)_
 
 [*Go to parent page*](../../README.md)
