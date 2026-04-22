@@ -58,6 +58,8 @@
     * [Dungeon Crawl Dev Stream (YouTube)](https://www.youtube.com/playlist?list=PLJJFAeoDlbtBKbtFk1LTOyp1MWTgEb-9E)
     * [First Person Dungeons](https://screamingbrainstudios.com/first-person-dungeons/)
     * [tinyraycaster](https://github.com/ssloy/tinyraycaster/wiki)
+    * [raycasting](https://lodev.org/cgtutor/raycasting.html)
+    * [A raycasting engine in 7 easy steps](https://austinhenley.com/blog/raycasting.html)
   * tools:
     [Dungeon Crawler Atlas Generator](https://dungeoncrawlers.org/tools/atlas_generator/),
     [Mipui](https://www.mipui.net/)
