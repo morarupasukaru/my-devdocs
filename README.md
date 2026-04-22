@@ -8,6 +8,8 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) (don't repeat yourself),
   [KISS](https://en.wikipedia.org/wiki/KISS_principle) (keep it simple stupid),
   [YAGNI](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it) (you aren't gonna need it)
+* [DDD](https://github.com/sth77/spring-ddd-starter) starter project with [jMolecules](https://github.com/xmolecules/jmolecules) and [Spring Modulith](https://spring.io/projects/spring-modulith)  (domain-driven design)
+* [jspecify](https://jspecify.dev/) for annotation about static analysis of Null checks in IDE
 * [TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html) (test-driven development)
 * [Best-practises](https://angular.dev/assets/context/best-practices.md) for [Angular](webstack/Angular.md)
 * [TypeScript Cheat Sheets](https://www.typescriptlang.org/cheatsheets/) for [Typescript](webstack/TypeScript.md)
