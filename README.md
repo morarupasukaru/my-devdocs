@@ -44,6 +44,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 * [Mapstruct](https://mapstruct.org/) to ease mapping of java beans
 * [Vite](https://vite.dev/) as build tools
 * [Zod](https://zod.dev/) for TypeScript-first schema validation with static type inference
+* [hygen](https://github.com/jondot/hygen) as code generator
   
 (See also [archived webstack topics](archive/webstack/README.md))
 
