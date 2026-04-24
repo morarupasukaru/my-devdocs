@@ -104,15 +104,20 @@ Links and articles about digital education for young people
   * first games on switch (with joycons & gamepad for the family)
     * [Hoa](https://www.jeuxvideo.com/test/1455928/hoa-que-vaut-le-plateformer-a-la-sauce-ghibli.htm) (solo)
     * [Mario Kart 8 Deluxe](https://www.jeuxvideo.com/test/645409/mario-kart-8-deluxe-le-jeu-multi-par-excellence-un-must-have.htm) (multi)
-    * [A short hike](https://www.jeuxvideo.com/test/1157718/a-short-hike-le-breath-of-the-wild-de-poche.htm) (solo)
     * [Yoshi's Crafted World](https://www.jeuxvideo.com/test/1019618/yoshi-s-crafted-world-quand-la-plate-forme-2d-rencontre-l-exploration-c-est-tout-bon.htm) (multi)
-    * [New Super Mario Bros. U Deluxe](https://www.jeuxvideo.com/test/983514/new-super-mario-bros-u-deluxe-un-contenu-massif-mais-peu-de-nouveautes.htm) (multi)
     * later 
-      * [Kirby and the Forgotten Land](https://www.jeuxvideo.com/test/2023362/kirby-et-le-monde-oublie-reste-un-incontournable-sur-nintendo-switch-2-avec-le-pays-des-etoiles-filantes.htm)
-      * [Mario Party Superstars](https://www.jeuxvideo.com/test/1477432/mario-party-superstars-le-jeu-familial-a-partager-pour-cette-fin-d-annee.htm)
-      * [Super Mario 3D World](https://www.jeuxvideo.com/test/1353551/super-mario-3d-world-bowser-s-fury-felins-pour-l-autre.htm)
-      * [Luigi's Mansion 3](https://www.jeuxvideo.com/test/1132562/luigi-s-mansion-3-la-surprise-spooky-de-cette-fin-d-annee.htm)
-      * [Super Mario Odyssey](https://www.jeuxvideo.com/test/733646/super-mario-odyssey-les-nouvelles-aventures-de-mario-decrochent-la-lune.htm)
+      * [New Super Mario Bros. U Deluxe](https://www.jeuxvideo.com/test/983514/new-super-mario-bros-u-deluxe-un-contenu-massif-mais-peu-de-nouveautes.htm) (multi)
+      * [A short hike](https://www.jeuxvideo.com/test/1157718/a-short-hike-le-breath-of-the-wild-de-poche.htm) (8y, solo)
+      * [Kirby and the Forgotten Land](https://www.jeuxvideo.com/test/2023362/kirby-et-le-monde-oublie-reste-un-incontournable-sur-nintendo-switch-2-avec-le-pays-des-etoiles-filantes.htm) (multi)
+      * [Mario Party Superstars](https://www.jeuxvideo.com/test/1477432/mario-party-superstars-le-jeu-familial-a-partager-pour-cette-fin-d-annee.htm) (multi)
+      * [Super Mario 3D World](https://www.jeuxvideo.com/test/1353551/super-mario-3d-world-bowser-s-fury-felins-pour-l-autre.htm) (multi)
+      * [Luigi's Mansion 3](https://www.jeuxvideo.com/test/1132562/luigi-s-mansion-3-la-surprise-spooky-de-cette-fin-d-annee.htm) (multi)
+      * [Super Mario Odyssey](https://www.jeuxvideo.com/test/733646/super-mario-odyssey-les-nouvelles-aventures-de-mario-decrochent-la-lune.htm) (multi)
+      * [Super Mario Bros Wonder](https://www.jeuxvideo.com/test/1812076/super-mario-bros-wonder-le-meilleur-de-la-serie-depuis-presque-15-ans-tout-simplement.htm) (multi)
+      * Donut County
+      * Abzu
+      * Old Man's Journey
+      * [Lil gator](https://www.nintendo-town.fr/2022/12/28/lil-gator-game-nintendo-switch-le-test/)
 
 [*Go to top*](#my-devdocs)
 
