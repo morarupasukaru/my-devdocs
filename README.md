@@ -115,8 +115,10 @@ Links and articles about digital education for young people
       * [Super Mario Odyssey](https://www.jeuxvideo.com/test/733646/super-mario-odyssey-les-nouvelles-aventures-de-mario-decrochent-la-lune.htm) (multi)
       * [Super Mario Bros Wonder](https://www.jeuxvideo.com/test/1812076/super-mario-bros-wonder-le-meilleur-de-la-serie-depuis-presque-15-ans-tout-simplement.htm) (multi)
       * Donut County
-      * Abzu
-      * Old Man's Journey
+      * [Abzu](https://www.jeuxvideo.com/test/524516/abzu-une-breve-plongee-dans-les-abysses.htm)
+      * [Old Man's Journey](https://www.nintendo-town.fr/2018/03/03/old-mans-journey-nintendo-switch-le-test/)
+      * [A Monster's Expedition](https://www.nintendo-town.fr/2021/08/26/a-monsters-expedition-nintendo-switch-le-test/)
+      * [Gorogoa](https://www.jeuxvideo.com/test/766543/gorogoa-un-concept-brillant-pour-un-puzzle-game-unique.htm)
       * [Lil gator](https://www.nintendo-town.fr/2022/12/28/lil-gator-game-nintendo-switch-le-test/)
 
 [*Go to top*](#my-devdocs)
