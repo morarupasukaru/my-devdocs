@@ -9,28 +9,28 @@
 * first games on switch (with joycons & gamepad for the family)
 
 ### selections
-* [Hoa](https://www.jeuxvideo.com/test/1455928/hoa-que-vaut-le-plateformer-a-la-sauce-ghibli.htm) (solo)
-* [Mario Kart 8 Deluxe](https://www.jeuxvideo.com/test/645409/mario-kart-8-deluxe-le-jeu-multi-par-excellence-un-must-have.htm) (multi)
-* [Yoshi's Crafted World](https://www.jeuxvideo.com/test/1019618/yoshi-s-crafted-world-quand-la-plate-forme-2d-rencontre-l-exploration-c-est-tout-bon.htm) (multi)
-* later 
-  * [New Super Mario Bros. U Deluxe](https://www.jeuxvideo.com/test/983514/new-super-mario-bros-u-deluxe-un-contenu-massif-mais-peu-de-nouveautes.htm) (multi)
-  * [A short hike](https://www.jeuxvideo.com/test/1157718/a-short-hike-le-breath-of-the-wild-de-poche.htm) (8y, solo)
-  * [Kirby and the Forgotten Land](https://www.jeuxvideo.com/test/2023362/kirby-et-le-monde-oublie-reste-un-incontournable-sur-nintendo-switch-2-avec-le-pays-des-etoiles-filantes.htm) (multi)
-  * [Mario Party Superstars](https://www.jeuxvideo.com/test/1477432/mario-party-superstars-le-jeu-familial-a-partager-pour-cette-fin-d-annee.htm) (multi)
-  * [Super Mario 3D World](https://www.jeuxvideo.com/test/1353551/super-mario-3d-world-bowser-s-fury-felins-pour-l-autre.htm) (multi)
-  * [Luigi's Mansion 3](https://www.jeuxvideo.com/test/1132562/luigi-s-mansion-3-la-surprise-spooky-de-cette-fin-d-annee.htm) (multi)
-  * [Super Mario Odyssey](https://www.jeuxvideo.com/test/733646/super-mario-odyssey-les-nouvelles-aventures-de-mario-decrochent-la-lune.htm) (multi)
-  * [Super Mario Bros Wonder](https://www.jeuxvideo.com/test/1812076/super-mario-bros-wonder-le-meilleur-de-la-serie-depuis-presque-15-ans-tout-simplement.htm) (multi)
-  * Donut County
-  * [Abzu](https://www.jeuxvideo.com/test/524516/abzu-une-breve-plongee-dans-les-abysses.htm)
-  * [Old Man's Journey](https://www.nintendo-town.fr/2018/03/03/old-mans-journey-nintendo-switch-le-test/)
-  * [A Monster's Expedition](https://www.nintendo-town.fr/2021/08/26/a-monsters-expedition-nintendo-switch-le-test/)
-  * [Gorogoa](https://www.jeuxvideo.com/test/766543/gorogoa-un-concept-brillant-pour-un-puzzle-game-unique.htm)
-  * [Lil gator](https://www.nintendo-town.fr/2022/12/28/lil-gator-game-nintendo-switch-le-test/)
+* [Mario Kart 8 Deluxe](https://www.jeuxvideo.com/test/645409/mario-kart-8-deluxe-le-jeu-multi-par-excellence-un-must-have.htm) (7y, multi, karting)
+* [Yoshi's Crafted World](https://www.jeuxvideo.com/test/1019618/yoshi-s-crafted-world-quand-la-plate-forme-2d-rencontre-l-exploration-c-est-tout-bon.htm) (7y, multi, platform)
+* [Hoa](https://www.jeuxvideo.com/test/1455928/hoa-que-vaut-le-plateformer-a-la-sauce-ghibli.htm) :heart: (7y, solo, platform)
+* later
+  * [Donut County](https://legeekparesseux.fr/kids/donut-county/) (7y, solo, cozy)
+  * [New Super Mario Bros. U Deluxe](https://www.jeuxvideo.com/test/983514/new-super-mario-bros-u-deluxe-un-contenu-massif-mais-peu-de-nouveautes.htm) (7y, multi, platform)
+  * ??? [Super Mario Bros Wonder](https://www.jeuxvideo.com/test/1812076/super-mario-bros-wonder-le-meilleur-de-la-serie-depuis-presque-15-ans-tout-simplement.htm) (7y, multi, platform)
+  * [Mario Party Superstars](https://www.jeuxvideo.com/test/1477432/mario-party-superstars-le-jeu-familial-a-partager-pour-cette-fin-d-annee.htm) (8y, multi, party)
+  * [A short hike](https://www.jeuxvideo.com/test/1157718/a-short-hike-le-breath-of-the-wild-de-poche.htm) (8y, solo, cozy)
+  * [Kirby and the Forgotten Land](https://www.jeuxvideo.com/test/2023362/kirby-et-le-monde-oublie-reste-un-incontournable-sur-nintendo-switch-2-avec-le-pays-des-etoiles-filantes.htm) (8y, multi, platform)
+  * [Super Mario 3D World](https://www.jeuxvideo.com/test/1353551/super-mario-3d-world-bowser-s-fury-felins-pour-l-autre.htm) (8y, multi)
+  * [Luigi's Mansion 3](https://www.jeuxvideo.com/test/1132562/luigi-s-mansion-3-la-surprise-spooky-de-cette-fin-d-annee.htm) (8y, multi)
+  * [Super Mario Odyssey](https://www.jeuxvideo.com/test/733646/super-mario-odyssey-les-nouvelles-aventures-de-mario-decrochent-la-lune.htm) (10y, multi)
+  * [Abzu](https://www.jeuxvideo.com/test/524516/abzu-une-breve-plongee-dans-les-abysses.htm) (9y, cozy)
+  * [Old Man's Journey](https://www.nintendo-town.fr/2018/03/03/old-mans-journey-nintendo-switch-le-test/) (9y, cozy)
+  * [A Monster's Expedition](https://www.nintendo-town.fr/2021/08/26/a-monsters-expedition-nintendo-switch-le-test/) (9y, cozy)
+  * [Gorogoa](https://www.jeuxvideo.com/test/766543/gorogoa-un-concept-brillant-pour-un-puzzle-game-unique.htm) (9y, cozy)
+  * [Lil gator](https://www.nintendo-town.fr/2022/12/28/lil-gator-game-nintendo-switch-le-test/) (9y, cozy, time-consuming?)
+  * [hoa2](https://www.pm-studios.com/games/hoa-2) (?y, switch2)
+  * [Animal Crossing: New Horizons](https://www.jeuxvideo.com/test/2057466/animal-crossing-new-horizons-la-switch-2-est-elle-vraiment-indispensable-pour-profiter-du-jeu.htm)? (?y, cozy, time-consuming?)
      
-
 ## library
-
 * *whishlist:* FF7 trilogy on Switch2 (to buy in 2028?)
 * :heart: **Favorites games** :heart::
   [Final Fantasy XII](https://en.wikipedia.org/wiki/Final_Fantasy_XII),
