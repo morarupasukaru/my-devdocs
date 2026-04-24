@@ -97,29 +97,7 @@ Links and articles about digital education for young people
   * Smartphone: [Le premier smartphone de mon enfant](https://www.swisscom.ch/fr/about/durabilite/swisscom-campus/premier-smartphone-de-mon-enfant.html?campID=SEA_SE_R1GR2136_716379142449&gad_source=1&gad_campaignid=18606814235&gbraid=0AAAAADEdF42LP7AvY_yVc4T14P6qTiD3v#wofuer-smartphone=&acc-Ahz4MQ%5Bselected%5D%5B%5D=0) 
   * movies: [Quels films pour nos enfants?](https://www.filmspourenfants.net/)
   * [cours sur l'utilisation des réseaux sociaux, IA, etc.](https://fr.khanacademy.org/college-careers-more)
-* video game
-  * no video games/consoles unless the child asks for them
-  * play on a TV console with parents in the early years (like a board game).
-  * no portable consoles at first (because they are difficult to handle and lack parental control).
-  * first games on switch (with joycons & gamepad for the family)
-    * [Hoa](https://www.jeuxvideo.com/test/1455928/hoa-que-vaut-le-plateformer-a-la-sauce-ghibli.htm) (solo)
-    * [Mario Kart 8 Deluxe](https://www.jeuxvideo.com/test/645409/mario-kart-8-deluxe-le-jeu-multi-par-excellence-un-must-have.htm) (multi)
-    * [Yoshi's Crafted World](https://www.jeuxvideo.com/test/1019618/yoshi-s-crafted-world-quand-la-plate-forme-2d-rencontre-l-exploration-c-est-tout-bon.htm) (multi)
-    * later 
-      * [New Super Mario Bros. U Deluxe](https://www.jeuxvideo.com/test/983514/new-super-mario-bros-u-deluxe-un-contenu-massif-mais-peu-de-nouveautes.htm) (multi)
-      * [A short hike](https://www.jeuxvideo.com/test/1157718/a-short-hike-le-breath-of-the-wild-de-poche.htm) (8y, solo)
-      * [Kirby and the Forgotten Land](https://www.jeuxvideo.com/test/2023362/kirby-et-le-monde-oublie-reste-un-incontournable-sur-nintendo-switch-2-avec-le-pays-des-etoiles-filantes.htm) (multi)
-      * [Mario Party Superstars](https://www.jeuxvideo.com/test/1477432/mario-party-superstars-le-jeu-familial-a-partager-pour-cette-fin-d-annee.htm) (multi)
-      * [Super Mario 3D World](https://www.jeuxvideo.com/test/1353551/super-mario-3d-world-bowser-s-fury-felins-pour-l-autre.htm) (multi)
-      * [Luigi's Mansion 3](https://www.jeuxvideo.com/test/1132562/luigi-s-mansion-3-la-surprise-spooky-de-cette-fin-d-annee.htm) (multi)
-      * [Super Mario Odyssey](https://www.jeuxvideo.com/test/733646/super-mario-odyssey-les-nouvelles-aventures-de-mario-decrochent-la-lune.htm) (multi)
-      * [Super Mario Bros Wonder](https://www.jeuxvideo.com/test/1812076/super-mario-bros-wonder-le-meilleur-de-la-serie-depuis-presque-15-ans-tout-simplement.htm) (multi)
-      * Donut County
-      * [Abzu](https://www.jeuxvideo.com/test/524516/abzu-une-breve-plongee-dans-les-abysses.htm)
-      * [Old Man's Journey](https://www.nintendo-town.fr/2018/03/03/old-mans-journey-nintendo-switch-le-test/)
-      * [A Monster's Expedition](https://www.nintendo-town.fr/2021/08/26/a-monsters-expedition-nintendo-switch-le-test/)
-      * [Gorogoa](https://www.jeuxvideo.com/test/766543/gorogoa-un-concept-brillant-pour-un-puzzle-game-unique.htm)
-      * [Lil gator](https://www.nintendo-town.fr/2022/12/28/lil-gator-game-nintendo-switch-le-test/)
+* [video games for kids](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/gamography.md#video-games-for-kids)
 
 [*Go to top*](#my-devdocs)
 
