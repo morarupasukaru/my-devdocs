@@ -20,8 +20,7 @@
     * [Abzu](https://www.jeuxvideo.com/test/524516/abzu-une-breve-plongee-dans-les-abysses.htm) (9y, cozy)
     * [Old Man's Journey](https://www.nintendo-town.fr/2018/03/03/old-mans-journey-nintendo-switch-le-test/) (9y, cozy)
     * [A Monster's Expedition](https://www.nintendo-town.fr/2021/08/26/a-monsters-expedition-nintendo-switch-le-test/) (9y, cozy)
-    * [Gorogoa](https://www.jeuxvideo.com/test/766543/gorogoa-un-concept-brillant-pour-un-puzzle-game-unique.htm) (9y, cozy)
-    * [Lil gator](https://www.nintendo-town.fr/2022/12/28/lil-gator-game-nintendo-switch-le-test/) (9y, cozy, time-consuming?)
+    * [Gorogoa](https://www.jeuxvideo.com/test/766543/gorogoa-un-concept-brillant-pour-un-puzzle-game-unique.htm) (9y, cozy)   
     * [hoa2](https://www.pm-studios.com/games/hoa-2) (?y, switch2)
     * [Animal Crossing: New Horizons](https://www.jeuxvideo.com/test/2057466/animal-crossing-new-horizons-la-switch-2-est-elle-vraiment-indispensable-pour-profiter-du-jeu.htm) (?y, cozy, time-consuming?)
   * platform
@@ -31,7 +30,6 @@
     * [Super Mario 3D World](https://www.jeuxvideo.com/test/1353551/super-mario-3d-world-bowser-s-fury-felins-pour-l-autre.htm) (8y, multi)
     * [Super Mario Odyssey](https://www.jeuxvideo.com/test/733646/super-mario-odyssey-les-nouvelles-aventures-de-mario-decrochent-la-lune.htm) (10y, multi)
   * multi
-    * [Mario Party Superstars](https://www.jeuxvideo.com/test/1477432/mario-party-superstars-le-jeu-familial-a-partager-pour-cette-fin-d-annee.htm) (8y, multi, party)
     * [Luigi's Mansion 3](https://www.jeuxvideo.com/test/1132562/luigi-s-mansion-3-la-surprise-spooky-de-cette-fin-d-annee.htm) (8y, multi)
      
 ## library
