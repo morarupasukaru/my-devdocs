@@ -10,12 +10,6 @@ see [list of available fantasy consoles/computers](https://paladin-t.github.io/f
 * [TIC-80](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/tic80.md)
 * [wasm4](https://wasm4.org/) in [WebAssembly](https://webassembly.org/) that can be written in [AssemblyScript](https://www.assemblyscript.org/introduction.html)
 
-## projects with fantasy consoles
-
-### assets
-* [04b03](https://www.dafont.com/04b-03.font) as bitmap font
-* [commodore 64 palette](https://lospec.com/palette-list/commodore64)
-
 ## Languages
 
 ### Python (later)
