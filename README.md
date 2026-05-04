@@ -53,8 +53,13 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 
 ## fun
 
-* [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/PICO-8.md) as fantasy console
-* later: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/dos.md), [picotron](https://www.lexaloffle.com/picotron.php), [TIC-80](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/tic80.md)
+* ... with [fantasy consoles](https://paladin-t.github.io/fantasy/index):
+[PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/PICO-8.md),
+[picotron](https://www.lexaloffle.com/picotron.php),
+[TIC-80](https://tic80.com/),
+[wasm4](https://wasm4.org/),
+[nibble8](https://jenissimo.itch.io/nibble8), etc.
+* ... with [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md) or [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md)
 
 [*Go to top*](#my-devdocs)
 
