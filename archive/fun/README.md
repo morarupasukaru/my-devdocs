@@ -9,7 +9,6 @@ see [list of available fantasy consoles/computers](https://paladin-t.github.io/f
 * [picotron](https://www.lexaloffle.com/picotron.php)
 * [TIC-80](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/tic80.md)
 * [wasm4](https://wasm4.org/) in [WebAssembly](https://webassembly.org/) that can be written in [AssemblyScript](https://www.assemblyscript.org/introduction.html)
-* [microw8](https://exoticorn.github.io/microw8/) is another fantasy console in WebAssembly but in less final stage
 
 ## projects with fantasy consoles
 
