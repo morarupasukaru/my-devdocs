@@ -57,8 +57,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/PICO-8.md),
 [picotron](https://www.lexaloffle.com/picotron.php),
 [TIC-80](https://tic80.com/),
-[wasm4](https://wasm4.org/),
-[nibble8](https://jenissimo.itch.io/nibble8), etc.
+[wasm4](https://wasm4.org/), etc.
 * ... with [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md) or [c64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/c64.md)
 
 [*Go to top*](#my-devdocs)
