@@ -54,7 +54,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 ## fun
 
 * [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/PICO-8.md) as fantasy console
-* later: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/dos.md), [picotron](https://www.lexaloffle.com/picotron.php), [TIC-80](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/tic80.md), [Game Boy](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/game-boy.md)
+* later: [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/dos.md), [picotron](https://www.lexaloffle.com/picotron.php), [TIC-80](https://github.com/morarupasukaru/my-devdocs/blob/main/archive/fun/tic80.md)
 
 [*Go to top*](#my-devdocs)
 
