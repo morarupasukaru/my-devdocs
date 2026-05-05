@@ -129,7 +129,8 @@
   [Squirrel](https://void-gamesplay.itch.io/squirrel),
   [Soul Breakers](https://kerneliron.itch.io/soul-breakers),
   [Dungeon Battlefield](https://kaasnake.itch.io/dungeon-battlefield),
-  [Idle RPG](https://jasonnumberxiii.itch.io/idle-rpg)
+  [Idle RPG](https://jasonnumberxiii.itch.io/idle-rpg),
+  [Libryinth](https://www.lexaloffle.com/bbs/?pid=172967#p)
 * Shoot'em up:
   [Storming The Grandmothership](https://www.lexaloffle.com/bbs/?pid=89237#p),
   [Kalikan](https://www.lexaloffle.com/bbs/?pid=131586#p),
