@@ -4,6 +4,7 @@
 * AI SDD?
 
 ##  past courses
+  * DDD (1 day course, 2026)
   * [Architecture](https://github.com/morarupasukaru/my-devdocs/blob/main/webstack/architecture.md) [done in 2025]
   * [Angular] [Understanding TypeScript](https://www.udemy.com/course/understanding-typescript/) [done in 2019, watch in 2025]
   * [Angular] [Angular Signals In Depth (Angular 19)](https://www.udemy.com/course/angular-signals/) [done in 2025]
