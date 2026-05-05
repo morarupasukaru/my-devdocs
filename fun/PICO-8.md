@@ -44,10 +44,6 @@
 * misc 
   * [palettes](https://nerdyteachers.com/PICO-8/Guide/PALETTES): [PICO-8 Palette](https://lospec.com/palette-list/pico-8), [PICO-8 Secret Palette Palette](https://lospec.com/palette-list/pico-8-secret-palette)
   * [p8x8](https://sr.ht/~pancelor/p8x8/) to convert pico8 cart for picotron
-## Projects
-* application to learn german
-* a roguelike; resources:
-  [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge),
 
 ## Cards
 * Dungeon-crawlers:
