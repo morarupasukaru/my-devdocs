@@ -48,45 +48,10 @@
 * application to learn german
 * a roguelike; resources:
   [Seven Day Roguelike Challenge](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge),
-* a dungeon-crawler; resources:
-  [resources about dungeoncrawlers game development](https://www.dungeoncrawlers.org/resources/gamedev/),
-  [dungeon master encyclopaedia](http://dmweb.free.fr/),
-  * explanations:
-    * [creating an RPG First-Person-View like Bard‘s Tale, Eye of the Beholder, Dungeon Master, etc ](https://www.youtube.com/watch?v=7L3hlafPcAU) of [Dungeons and Labyrinths](https://www.youtube.com/playlist?list=PLetZmJRkDZfWHAXL8JxHkswJ8E-LgkZud), [github](https://github.com/The8BitTheory/dungeonrender)
-    * [DungeonRenderer in JavaScript](https://dungeoncrawlers.org/tools/dungeonrenderer/),
-    * [View Rending](https://captive.atari.org/Technical/ViewRendering/ViewRendering.php) (and other sections),
-    * [Dungeon Crawl Dev Stream (YouTube)](https://www.youtube.com/playlist?list=PLJJFAeoDlbtBKbtFk1LTOyp1MWTgEb-9E)
-    * [First Person Dungeons](https://screamingbrainstudios.com/first-person-dungeons/)
-    * [tinyraycaster](https://github.com/ssloy/tinyraycaster/wiki)
-    * [raycasting](https://lodev.org/cgtutor/raycasting.html)
-    * [A raycasting engine in 7 easy steps](https://austinhenley.com/blog/raycasting.html)
-  * tools:
-    [Dungeon Crawler Atlas Generator](https://dungeoncrawlers.org/tools/atlas_generator/),
-    [Mipui](https://www.mipui.net/)
-  * assets:
-    [Eye of the Beholder](https://www.spriters-resource.com/ms_dos/eyeofthebeholder/),
-    [Dungeon Crawl 32x32 tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles),
-    [Dungeon Crawl 32x32 tiles supplemental](https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental),
-    [First Person Dungeon Crawl Art Pack](https://opengameart.org/content/first-person-dungeon-crawl-art-pack),
-    [First Person Dungeon Crawl - More Tilesets](https://opengameart.org/content/first-person-dungeon-crawl-more-tilesets),
-    [First Person Dungeon Crawl Industrial Pack](https://opengameart.org/content/first-person-dungeon-crawl-industrial-pack),
-    [First Person Dungeon Crawl Tiles - GB Studio Redux](https://opengameart.org/content/first-person-dungeon-crawl-tiles-gb-studio-redux),
-    [First Person Dungeon Crawl - Object Tiles](https://opengameart.org/content/first-person-dungeon-crawl-object-tiles),
-  * inspiration:
-    * shining in the darkness, eye of the beholder, dungeon master, land of lore 
-    * [lands-of-lorez](https://www.dungeoncrawlers.org/game/lands-of-lorez/) (see [github](https://github.com/photonstorm/lands-of-lorez))
-    * [uncharted wanders](https://dashingstrike.itch.io/uncharted-wanders),
-    * [Black Dawn - The Pico8 Experiment](https://timeslip1974.itch.io/picodawn),
-    * [Oathbreaker](https://www.lexaloffle.com/bbs/?tid=145208)
-    * mode 64x64 or stretch sprite with ssprite
-* a demoscene; resources:
-  [sizecoding with PICO-8](http://www.sizecoding.org/wiki/PICO-8),
-  [demo effects](https://en.wikipedia.org/wiki/Demo_effect) used by demoscene,
-  [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding?tab=readme-ov-file)
-* game with gambits / AI commands / idle game (to integrate in roguelike, dungeon-crawler)
 
 ## Cards
 * Dungeon-crawlers:
+  [Libryinth](https://www.lexaloffle.com/bbs/?pid=172967#p),
   [Tria Insomnia](https://sprvrn.itch.io/tria-insomnia),
   [Wizardish](https://www.lexaloffle.com/bbs/?tid=3585#playing),
   [Monster House 2.5D](https://dukkio.itch.io/monster-house-25d),
@@ -129,8 +94,7 @@
   [Squirrel](https://void-gamesplay.itch.io/squirrel),
   [Soul Breakers](https://kerneliron.itch.io/soul-breakers),
   [Dungeon Battlefield](https://kaasnake.itch.io/dungeon-battlefield),
-  [Idle RPG](https://jasonnumberxiii.itch.io/idle-rpg),
-  [Libryinth](https://www.lexaloffle.com/bbs/?pid=172967#p)
+  [Idle RPG](https://jasonnumberxiii.itch.io/idle-rpg)
 * Shoot'em up:
   [Storming The Grandmothership](https://www.lexaloffle.com/bbs/?pid=89237#p),
   [Kalikan](https://www.lexaloffle.com/bbs/?pid=131586#p),
