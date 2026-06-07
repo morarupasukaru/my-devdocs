@@ -9,6 +9,7 @@
   * [Pico-8 Binary Save System](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/)
   * [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
   * [awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
+  * [PICO-ATE](https://www.eggnoggames.com/pico-ate): Altruistic Template Encyclopedia for PICO-8
 * beginner courses
   * [PICO-8 Programmer des jeux vidéo en L.U.A](https://www.udemy.com/course/pico-8-programmer-des-jeux-video-en-lua)
   * [Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)
