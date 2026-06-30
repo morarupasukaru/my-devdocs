@@ -8,6 +8,7 @@
   * [PICO-8 Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)
   * [Pico-8 Binary Save System](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/)
   * [lua for PICO-8](https://pico-8.fandom.com/wiki/Lua)
+  * [learn lua in 10 minutes](https://learnin10minutes.com/posts/learn-lua-in-10-minutes/)
   * [awesome PICO-8](https://github.com/pico-8/awesome-PICO-8)
   * [PICO-ATE](https://www.eggnoggames.com/pico-ate): Altruistic Template Encyclopedia for PICO-8
 * beginner courses
