@@ -94,6 +94,7 @@ Links and articles about digital education for young people
     * e.g. [120 secondes](https://www.multimaths.net/120s.php) for mental calculations, ages: 6-11
   * [les explorateurs de l'énergie](https://www.explorateurs-energie.ch/)
   * [C'est pas sorcier: l'histoire numérique](https://www.hachette.fr/livre/cest-pas-sorcier-lhistoire-du-numerique-9782017893707), a book about history of computing
+  * [L'intelligence artificielle pour les débutants](https://bibliotheque-pestalozzi.ch/search.aspx?SC=CATALOGUE&QUERY=intelligence+articifielle+pour+d%C3%A9butant&QUERY_LABEL=#/Detail/(query:(Id:'0_OFFSET_0',Index:1,NBResults:1,PageRange:3,SearchQuery:(FacetFilter:%7B%7D,ForceSearch:!f,InitialSearch:!f,OriginalQueryString:'intelligence%20articifielle%20pour%20d%C3%A9butant',Page:0,PageRange:3,QueryGuid:'373a1574-b4b7-462d-9139-002295e1e55b',QueryString:'intelligence%20artificielle%20pour%20d%C3%A9butant',ResultSize:20,ScenarioCode:CATALOGUE,ScenarioDisplayMode:display-standard,SearchContext:2,SearchGridFieldsShownOnResultsDTO:!(),SearchLabel:'',SearchTerms:'intelligence%20artificielle%20pour%20d%C3%A9butant',SortField:!n,SortOrder:0,TemplateParams:(Scenario:'',Scope:Default,Size:!n,Source:'',Support:'',UseCompact:!f),UseSpellChecking:!n)))) (Usborne)
 * resources for parents
   * [Guide des Ressources Numériques Éducatives](https://primabord.eduscol.education.fr/guide-des-ressources-numeriques-educatives)
   * [#DansLaToile](https://www.rts.ch/play/tv/emission/danslatoile?id=8810939) : cartoon about digital education, ages: 9+
