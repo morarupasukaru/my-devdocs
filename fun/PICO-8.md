@@ -49,6 +49,7 @@
 * demoscene
   * [collection of best demos](https://www.youtube.com/playlist?list=PLLe5RNUqyEWj1ty_O3wCkfJU05cq1Zfie)
   * [prodlist on pouet](https://www.pouet.net/prodlist.php?platform%5B0%5D=PICO-8&order=thumbup)
+  * [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx)
 
 ## Cards
 * Dungeon-crawlers:
@@ -122,7 +123,6 @@
   [Terra - A Terraria Demake](https://www.lexaloffle.com/bbs/?pid=97269#p),
   [UnDUNE II - The Demaking of a Dynasty](https://www.lexaloffle.com/bbs/?pid=109394#p),
   [Picocraft - a pico warcraft III demake](https://www.lexaloffle.com/bbs/?tid=148318)
-* Demoscene: [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx)
 
 _(last update 02.01.2026)_
 
