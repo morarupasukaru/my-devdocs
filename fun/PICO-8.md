@@ -46,6 +46,9 @@
 * misc 
   * [palettes](https://nerdyteachers.com/PICO-8/Guide/PALETTES): [PICO-8 Palette](https://lospec.com/palette-list/pico-8), [PICO-8 Secret Palette Palette](https://lospec.com/palette-list/pico-8-secret-palette)
   * [p8x8](https://sr.ht/~pancelor/p8x8/) to convert pico8 cart for picotron
+* demoscene
+  * [collection of best demos](https://www.youtube.com/playlist?list=PLLe5RNUqyEWj1ty_O3wCkfJU05cq1Zfie)
+  * [prodlist on pouet](https://www.pouet.net/prodlist.php?platform%5B0%5D=PICO-8&order=thumbup)
 
 ## Cards
 * Dungeon-crawlers:
