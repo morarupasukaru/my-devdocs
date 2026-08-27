@@ -306,6 +306,8 @@
       [The Castles of Doctor Creep](https://www.lemon64.com/game/castles-of-doctor-creep),
       [The Great Giana Sister](https://www.lemon64.com/game/great-giana-sisters),
       [Uridium](https://www.lemon64.com/game/uridium)
+    * _iPhone_:
+      [QuestLord](https://apps.apple.com/us/app/questlord/id510864423)
     * _Miscellaneous_:
       [Barcode Battler](https://fr.wikipedia.org/wiki/Barcode_Battler),
       [Game & Watch](https://en.wikipedia.org/wiki/Game_%26_Watch),
