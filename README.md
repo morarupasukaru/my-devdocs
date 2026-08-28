@@ -57,7 +57,7 @@ Webstack based on [Angular](webstack/Angular.md) & [Spring Boot](webstack/Spring
 [PICO-8](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/PICO-8.md),
 [picotron](https://www.lexaloffle.com/picotron.php),
 [TIC-80](https://tic80.com/), etc.
-* ... with [dos](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/dos.md) or [C64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/C64.md)
+* ... with [DOS](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/DOS.md) or [C64](https://github.com/morarupasukaru/my-devdocs/blob/main/fun/C64.md)
 * ... by development of [dungeon-crawler](https://github.com/morarupasukaru/dungeon-crawler-proof-of-concepts) or a [roguelike](https://www.roguebasin.com/index.php?title=Seven_Day_Roguelike_Challenge)
 
 [*Go to top*](#my-devdocs)
