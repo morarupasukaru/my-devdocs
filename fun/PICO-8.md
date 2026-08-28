@@ -37,10 +37,7 @@
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
 * sprite editors: [pixelorama](https://pixelorama.org/), [libresprite](https://libresprite.github.io/#!/), [aseprite](https://github.com/aseprite/aseprite)
 * cards: [200 Best PICO-8 Games](https://nerdyteachers.com/PICO-8/Games/Top200/) 
-* demoscene
-  * [collection of best demos](https://www.youtube.com/playlist?list=PLLe5RNUqyEWj1ty_O3wCkfJU05cq1Zfie)
-  * [prodlist on pouet](https://www.pouet.net/prodlist.php?platform%5B0%5D=PICO-8&order=thumbup)
-  * [classic-demoscene-vfx](https://slaintees.itch.io/classic-demoscene-vfx)
+* demoscene: [prodlist on pouet](https://www.pouet.net/prodlist.php?platform%5B0%5D=PICO-8&order=thumbup)
 
 _(last update 28.08.2026)_
 
