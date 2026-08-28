@@ -27,7 +27,6 @@
     [Advanced Shmup](https://www.youtube.com/watch?v=GSx2YHy9Gp8&list=PLea8cjCua_P1o-xiQRf_QzqS2pMVlGnse)
   * [Youtube of NerdyTeachers](https://www.youtube.com/@NerdyTeachers): [Pico 8 - Platformer Setup](https://www.youtube.com/playlist?list=PLyhkEEoUjSQtUiSOu-N4BIrHBFtLNjkyE), etc.
   * [PICO-8: Top-Down Adventure Game Tutorial](https://mboffin.itch.io/pico-8-top-down-adventure-game-tutorial)
-  * [PICO-8 Game Dev for Beginners](https://www.youtube.com/playlist?list=PLB_hJy2NGP0JsFFpEJpe2Wb-k7QShZkGX)
   * [Pico-8 Music Tutorials](https://www.youtube.com/playlist?list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)
   * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
   * ide: [Utiliser un éditeur externe](https://fairedesjeux.fr/pico-8/techniques-avancees/editeur-externe/),
