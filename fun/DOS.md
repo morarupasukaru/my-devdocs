@@ -11,6 +11,8 @@
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
   * [FreeDos - development resources](https://www.freedos.org/about/devel/)
   * [Awesome DOS](https://github.com/balintkissdev/awesome-dos)
+  * [8086-ASSEMBLY-LANGUAGE-PROGRAMS](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)
+  * 
 * courses
   * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube videos
   * [Assembly Language Full Course for Beginners From Scratch](https://www.youtube.com/playlist?list=PLQR3mV3wWgCo47E18bpdsISc5mmpxnlwv)
