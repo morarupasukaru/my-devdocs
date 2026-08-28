@@ -2,21 +2,20 @@
 
 * OS: [freedos](https://www.freedos.org/), [dosbox](https://www.dosbox.com/)
 * tools: [MS-DOS editor](https://archive.org/details/ms-dos-editor), [Community QBasic](https://qbasic.com/documentation/dosbox.html), [nasm](https://www.nasm.us/), [inertia player](https://demozoo.org/productions/186658/)
-* libs: [EOS (Eclipse Operating System)](https://github.com/david4599/BrickBlaster-EOS-Archive)
-* (fantasy console: [nibble8](https://jenissimo.itch.io/nibble8) might be fun but is inactive)
-* references
+* learning
+  * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube videos
+  * [Assembly Language Full Course for Beginners From Scratch](https://www.youtube.com/playlist?list=PLQR3mV3wWgCo47E18bpdsISc5mmpxnlwv) youtube videos
+  * [MASM 8086 Assembly - Pong](https://www.youtube.com/playlist?list=PLvpbDCl_H7mfgmEJPl1bTHlH5g-f0kWDM) youtube videos
   * [DOS - Sizecoding](http://www.sizecoding.org/wiki/DOS)
   * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
-  * [writing 16-bit Code in nasm](https://www.nasm.us/docs/3.01/nasm10.html)
+  * [writing 16-bit Code in NASM](https://www.nasm.us/docs/3.01/nasm10.html)
+* references
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
   * [FreeDos - development resources](https://www.freedos.org/about/devel/)
   * [Awesome DOS](https://github.com/balintkissdev/awesome-dos)
   * [8086-ASSEMBLY-LANGUAGE-PROGRAMS](https://github.com/Amey-Thakur/8086-ASSEMBLY-LANGUAGE-PROGRAMS)
-  * 
-* courses
-  * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube videos
-  * [Assembly Language Full Course for Beginners From Scratch](https://www.youtube.com/playlist?list=PLQR3mV3wWgCo47E18bpdsISc5mmpxnlwv)
-  * [[MASM] 8086 Assembly - Pong](https://www.youtube.com/playlist?list=PLvpbDCl_H7mfgmEJPl1bTHlH5g-f0kWDM)
+* (libs: [EOS (Eclipse Operating System)](https://github.com/david4599/BrickBlaster-EOS-Archive))
+* (fantasy console: [nibble8](https://jenissimo.itch.io/nibble8) might be fun but is inactive)
 * books:
   * [Michael Abrash's graphics programming black book](https://archive.org/details/michaelabrashsgr00abra/mode/2up), [CD](https://archive.org/details/blackbook_201910),
   * Le Meilleur : Programmation jeux 3D, [CD](https://www.abandonware-france.org/bibliotheque/livres/le-meilleur-programmation-jeux-3d-27/), 
