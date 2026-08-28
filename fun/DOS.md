@@ -1,4 +1,4 @@
-# dos
+# DOS
 
 * OS: [freedos](https://www.freedos.org/), [dosbox](https://www.dosbox.com/)
 * tools: [MS-DOS editor](https://archive.org/details/ms-dos-editor), [Community QBasic](https://qbasic.com/documentation/dosbox.html), [nasm](https://www.nasm.us/), [inertia player](https://demozoo.org/productions/186658/)
@@ -10,8 +10,9 @@
   * [writing 16-bit Code in nasm](https://www.nasm.us/docs/3.01/nasm10.html)
   * [x86 assembly language](https://en.wikipedia.org/wiki/X86_assembly_language)
   * [FreeDos - development resources](https://www.freedos.org/about/devel/)
-  * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube video
   * [Awesome DOS](https://github.com/balintkissdev/awesome-dos)
+* courses
+  * [Let's Code - MS DOS](https://www.youtube.com/playlist?list=PLGJnX2KGgaw2L7Uv5NThlL48G9y4rJx1X) youtube videos
 * books:
   * [Michael Abrash's graphics programming black book](https://archive.org/details/michaelabrashsgr00abra/mode/2up), [CD](https://archive.org/details/blackbook_201910),
   * Le Meilleur : Programmation jeux 3D, [CD](https://www.abandonware-france.org/bibliotheque/livres/le-meilleur-programmation-jeux-3d-27/), 
@@ -21,6 +22,6 @@
   * [Programmer en Assembleur sur PC](http://www.win3x.org/win3board/viewtopic.php?t=25757)
   * 8088 assembleur, ibm-PC et compatibles, traduit de Henri Lilen, 2709109948, édition Radio
 
-_(last update 13.04.2026)_
+_(last update 28.08.2026)_
 
 [*Go to parent page*](../../README.md)
