@@ -29,7 +29,7 @@
   * [PICO-8: Top-Down Adventure Game Tutorial](https://mboffin.itch.io/pico-8-top-down-adventure-game-tutorial)
   * [Pico-8 Music Tutorials](https://www.youtube.com/playlist?list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)
   * [PICO-8 Audio Tutorials](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)
-  * ide: [Utiliser un éditeur externe](https://fairedesjeux.fr/pico-8/techniques-avancees/editeur-externe/),
+* ide: [Utiliser un éditeur externe](https://fairedesjeux.fr/pico-8/techniques-avancees/editeur-externe/),
     [PICO-8 Easier development with Visual Studio](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio),
     [Setting up VS Code for PICO-8](https://itch.io/blog/877930/setting-up-vs-code-for-pico-8),
     [Getting Started with Local Development for Pico-8 and VS Code](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
