@@ -34,10 +34,6 @@
     [PICO-8 Easier development with Visual Studio](https://imogiagames.itch.io/anila/devlog/367600/pico-8-easier-development-with-visual-studio),
     [Setting up VS Code for PICO-8](https://itch.io/blog/877930/setting-up-vs-code-for-pico-8),
     [Getting Started with Local Development for Pico-8 and VS Code](https://maxzsol.com/getting-started-with-local-development-for-pico-8-and-vs-code/)
-* showcases:
-  [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/),
-  [Tron Lightcycle game from scratch](https://www.youtube.com/watch?v=ZuaLuMhwcc8),
-  [tweetjam](https://www.lexaloffle.com/bbs/?tid=3726)
 * tools: [PICO-8 Education Edition](https://www.pico-8-edu.com/)
 * hardware: [Anbernic CUBEXX](https://www.youtube.com/watch?v=V4NnMElBDXo) 
 * sprite editors: [pixelorama](https://pixelorama.org/), [libresprite](https://libresprite.github.io/#!/), [aseprite](https://github.com/aseprite/aseprite)
